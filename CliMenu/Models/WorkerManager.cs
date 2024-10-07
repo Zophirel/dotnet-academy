@@ -362,6 +362,22 @@ namespace CliMenu.Models
             }
         }
 
+        internal static bool ExportJson<T>(List<T> list)
+        {
+            try
+            {
+                var options = new JsonSerializerOptions { WriteIndented = true };
+                string json = JsonSerializer.Serialize(list, options);
+                File.WriteAllText("path", json);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                HandleException(ex);
+                return false;
+            }
+        }
+
         /// <summary>
         /// Imports data from a JSON file.
         /// </summary>
