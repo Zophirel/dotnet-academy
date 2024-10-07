@@ -2,50 +2,57 @@
 
 namespace University.DataModel
 {
-    internal class University 
+    public class UniModel
     {
-        public required string Name { get; set; }
-        public required string Address { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
 
-        public required List<Faculty> Faculties { get; set; } = [];
+        public List<Faculty> Faculties { get; set; } = [];
+
+        public UniModel(string name, string address)
+        {
+            Name = name;
+            Address = address;
+        }
+        
     }
-    internal class Faculty
+    public class Faculty
     {
-        public required Faculties Name { get; set; }
-        public required string Address { get; set; }
-        public required int StudentsNumber { get; set; }
+        public Faculties Name { get; set; }
+        public string Address { get; set; }
+        public int StudentsNumber { get; set; }
 
-        public required int LabsNumber { get; set; }
-        public required bool HasLibrary { get; set; }
-        public required bool HasCanteen { get; set; }
-        public required List<Exam> Exams { get; set; }
-        public required List<Courses> Courses { get; set; } 
+        public int LabsNumber { get; set; }
+        public bool HasLibrary { get; set; }
+        public bool HasCanteen { get; set; }
+        public List<Exam> Exams { get; set; }
+        public List<Courses> Courses { get; set; } 
 
         // lista di oggetto esami
 
     }
 
-    internal class Exam
+    public class Exam
     {
-        public required Faculty Faculty { get; set; }
-        public required string Name { get; set; }
-        public required int CFU { get; set; }
-        public required DateTime Date { get; set; }
-        public required bool IsOnline { get; set; }
-        public required int Partecipants {  get; set; }
-        public required ExamType Type { get; set; }
-        public required bool IsProjectRequired { get; set; }
+        public Faculty Faculty { get; set; }
+        public string Name { get; set; }
+        public int CFU { get; set; }
+        public DateTime Date { get; set; }
+        public bool IsOnline { get; set; }
+        public int Partecipants {  get; set; }
+        public ExamType Type { get; set; }
+        public bool IsProject { get; set; }
 
     }
 
     // TOGLIERE E AGGIUNGERE CORSI 
-    internal class Courses
+    public class Courses
     {
-        public required Faculty Faculty { get; set; }
-        public required string Name { get; set; }
-        public required int CFU { get; set; }
-        public required bool IsOnline { get; set; }
-        public required Classroom Classroom { get; set; }
+        public Faculty Faculty { get; set; }
+        public string Name { get; set; }
+        public int CFU { get; set; }
+        public bool IsOnline { get; set; }
+        public Classroom Classroom { get; set; }
 
 
     }
