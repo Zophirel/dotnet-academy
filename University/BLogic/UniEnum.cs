@@ -1,65 +1,75 @@
-﻿namespace University.BLogic
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace University.BLogic
 {
+    public enum StartMenuFunctions
+    {
+        INSERT = 1,
+        VIEW,
+        UPDATE,
+        DELETE,
+        EXIT
+    }
+
     public enum Faculties
     {
         COMPUTER_SCIENCE = 1,
-        BUSINESS_AND_MANGENMENT,
-        MATHEMATICS, 
-        PSYCHOLOGY, 
-        LAW, 
+        BUSINESS_AND_MANAGEMENT,
+        MATHEMATICS,
+        PSYCHOLOGY,
+        LAW,
         FASHION_DESIGN,
-        NURSING, 
-        LANGUAGES, 
+        NURSING,
+        LANGUAGES,
         BIOLOGY
     }
 
     public enum Degrees
     {
-        BACHELOR, 
-        MASTER, 
+        BACHELOR = 1,
+        MASTER,
         PHD,
-        FIVE_YEARLY
+        FIVE
     }
 
     public enum Roles
     {
-        PROFESSOR, 
-        TECHNITIAN,
+        TECHNICIAN = 1,
         SECRETARY,
-        CLEANING_STAFF, 
-        RECTOR, 
-        
+        CLEANING_STAFF,
+        RECTOR,
+        PROFESSOR
     }
 
     public enum Status
     {
-        SINGLE,
+        SINGLE = 1,
         MARRIED,
-        DIVORCED, 
-        WIDOWED, 
+        DICORCED,
+        WIDOWED
     }
 
     public enum ExamType
     {
-        WRITTEN, 
-        ORAL, 
-        WRITTEN_AND_ORAL
-
+        WRITTEN = 1,
+        ORAL,
+        WRITTEN_AND_ORAL,
     }
 
     public enum Classroom
-  {
-      ONLINE, 
-      A,
-      B,
-      C,
-      D,
-      E, 
-      F,
-      LAB_1,
-      LAB_2,
-      LAB_3
-
-  }
-  
+    {
+        A = 1,
+        B,
+        C,
+        D,
+        E,
+        F,
+        LAB_1,
+        LAB_2,
+        LAB_3
+    }
 }

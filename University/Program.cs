@@ -1,4 +1,4 @@
-﻿using University.AppMenu;
+﻿
 
 namespace University
 {
@@ -6,7 +6,7 @@ namespace University
     {
         static void Main(string[] args)
         {
-            Menu.Start();
+           
             return;
         }
     }
