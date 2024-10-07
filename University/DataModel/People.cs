@@ -26,31 +26,21 @@ namespace University.DataModel
     {
         public string Matricola { get; set; }
         public DateTime RegistrationYear { get; set; }
-
         public Degrees Degree { get; set; }
-
         public decimal ISEE { get; set; }
-        
-
-        //da aggiungere oggetto Faculty
-
+        public Faculty? Faculty { get; set; } //where the student is enrolled
     }
 
     public class Employee : People
     {
         public Roles Role { get; set; }
-
         public DateTime HiringYear { get; set; }
-        
         public Faculty? Faculty { get; set; } //where the employee works
-        
         public decimal Salary { get; set; }
-
     }
 
     public class Professor : Employee
     {
-
         public List<Exam> Exams { get; set; } = [];
         public List<Courses> Courses { get; set; } = [];         
     }

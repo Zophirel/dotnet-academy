@@ -6,7 +6,6 @@ namespace University
     {
         static void Main(string[] args)
         {
-           
             return;
         }
     }

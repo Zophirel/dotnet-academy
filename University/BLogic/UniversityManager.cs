@@ -66,7 +66,6 @@ namespace University.BLogic
             {
                 Console.WriteLine($"Error: {ex.Message}");
             }
-
         }
 
         public void InsertEmployee()
@@ -94,7 +93,7 @@ namespace University.BLogic
                 Console.Write("Is the Employee full-time? (true/false): ");
                 bool isFullTime = bool.Parse(Console.ReadLine());
 
-                string maritalStatus = GetValidInput("1. Single - 2.Married - 3. Divorced - 4. Widowed", input => (int.Parse(input!) > 0 && int.Parse(input!) < 5));
+                string maritalStatus = GetValidInput("1. Single - 2.Married - 3. Divorced - 4. Widowed", input => int.Parse(input!) > 0 && int.Parse(input!) < 5);
 
                 string prompt = """
                     1 - TECHNICIAN,
@@ -103,7 +102,7 @@ namespace University.BLogic
                     4 - RECTOR,
                     """;
 
-                string role = GetValidInput(prompt, input => (int.Parse(input!) > 0 && int.Parse(input!) < 5));
+                string role = GetValidInput(prompt, input => int.Parse(input!) > 0 && int.Parse(input!) < 5);
 
                 Console.Write("Enter Faculty Name: ");
                 string faculty = Console.ReadLine();
@@ -117,7 +116,7 @@ namespace University.BLogic
                 int roleint = int.Parse(role);
                 int statusint = int.Parse(maritalStatus);
 
-                Employee employee = new Employee
+                Employee employee = new()
                 {
                     FullName = fullName,
                     Gender = gender,
@@ -167,7 +166,7 @@ namespace University.BLogic
             Console.Write("Is the student full-time? (true/false): ");
             bool isFullTime = bool.Parse(Console.ReadLine());
 
-            string maritalStatus = GetValidInput("1. Single - 2.Married - 3. Divorced - 4. Widowed", input => (int.Parse(input!) > 0 && int.Parse(input!) < 5));
+            string maritalStatus = GetValidInput("1. Single - 2.Married - 3. Divorced - 4. Widowed", input => int.Parse(input!) > 0 && int.Parse(input!) < 5);
 
             Console.Write("Enter Matricola (Student ID): ");
             string matricola = Console.ReadLine();
@@ -175,12 +174,12 @@ namespace University.BLogic
             Console.Write("Enter Registration Year (YYYY-MM-DD): ");
             DateTime registrationYear = DateTime.Parse(Console.ReadLine());
 
-            string degree = GetValidInput("1. Bachelor - 2.Master - 3. PhD - 4. Five", input => (int.Parse(input!) > 0 && int.Parse(input!) < 5));
+            string degree = GetValidInput("1. Bachelor - 2.Master - 3. PhD - 4. Five", input => int.Parse(input!) > 0 && int.Parse(input!) < 5);
 
             Console.Write("Enter ISEE (Economic Indicator): ");
             decimal isee = decimal.Parse(Console.ReadLine());
 
-            Student student = new Student
+            Student student = new()
             {
                 FullName = fullName,
                 Gender = gender,
@@ -221,7 +220,7 @@ namespace University.BLogic
             Console.Write("Is the professor full-time? (true/false): ");
             bool isFullTime = bool.Parse(Console.ReadLine());
 
-            string maritalStatus = GetValidInput("1. Single - 2.Married - 3. Divorced - 4. Widowed", input => (int.Parse(input!) > 0 && int.Parse(input!) < 5));
+            string maritalStatus = GetValidInput("1. Single - 2.Married - 3. Divorced - 4. Widowed", input => int.Parse(input!) > 0 && int.Parse(input!) < 5);
 
             Console.Write("Enter Faculty Name: ");
             string faculty = Console.ReadLine();
@@ -232,8 +231,8 @@ namespace University.BLogic
             Console.Write("Enter Salary: ");
             decimal salary = decimal.Parse(Console.ReadLine());
 
-           Professor professore = new Professor
-            {
+           Professor professore = new()
+           {
                 FullName = fullName,
                 Gender = gender,
                 Address = address,
@@ -265,7 +264,7 @@ namespace University.BLogic
                     9 - BIOLOGY
                     """;
 
-                string name = GetValidInput(prompt, input => (int.Parse(input!) > 0 && int.Parse(input!) < 10));
+                string name = GetValidInput(prompt, input => int.Parse(input!) > 0 && int.Parse(input!) < 10);
 
                 Console.Write("Enter Faculty Address: ");
                 string address = Console.ReadLine();
@@ -284,7 +283,7 @@ namespace University.BLogic
 
                 int nameint = int.Parse(name);
 
-                Faculty faculty = new Faculty
+                Faculty faculty = new()
                 {
                     Name = (Faculties) nameint,
                     Address = address!,
@@ -322,14 +321,14 @@ namespace University.BLogic
                 3 - WRITTEN_AND_ORAL,
                 """;
 
-            string examType = GetValidInput(prompt, input => (int.Parse(input!) > 0 && int.Parse(input!) < 10));
+            string examType = GetValidInput(prompt, input => int.Parse(input!) > 0 && int.Parse(input!) < 10);
 
             Console.Write("Is a Project Required? (true/false): ");
             bool isProjectRequired = bool.Parse(Console.ReadLine());
 
             int examint = int.Parse(examType);
 
-            Exam exam = new Exam
+            Exam exam = new()
             {
                 Name = name!,
                 Faculty = null,
@@ -366,11 +365,11 @@ namespace University.BLogic
                 9 - LAB_3
                 """;
 
-            string classroom = GetValidInput(prompt, input => (int.Parse(input!) > 0 && int.Parse(input!) < 10));
+            string classroom = GetValidInput(prompt, input => int.Parse(input!) > 0 && int.Parse(input!) < 10);
 
             int classroomint = int.Parse(classroom);
 
-            Courses course = new Courses
+            Courses course = new()
             {
                 Name = name,
                 Faculty = null,
