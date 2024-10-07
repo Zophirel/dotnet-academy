@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|c:\\users\\betacom\\desktop\\prove_mie\\uni\\university\\datamodel\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|solutionrelative:datamodel\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|c:\\users\\betacom\\desktop\\prove_mie\\uni\\university\\datamodel\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|solutionrelative:datamodel\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|c:\\users\\betacom\\desktop\\prove_mie\\uni\\university\\blogic\\unienum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|solutionrelative:blogic\\unienum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|c:\\users\\betacom\\desktop\\prove_mie\\uni\\university\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1035724-AC58-4F24-8E66-20FC202D569C}|University.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\DataModel\\Faculty.cs",
+              "RelativeDocumentMoniker": "DataModel\\Faculty.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\DataModel\\Faculty.cs",
+              "RelativeToolTip": "DataModel\\Faculty.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:20:53.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\BLogic\\UniEnum.cs",
+              "RelativeDocumentMoniker": "BLogic\\UniEnum.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\BLogic\\UniEnum.cs",
+              "RelativeToolTip": "BLogic\\UniEnum.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:34:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\DataModel\\People.cs",
+              "RelativeDocumentMoniker": "DataModel\\People.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\DataModel\\People.cs",
+              "RelativeToolTip": "DataModel\\People.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvyoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:07:03.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Prove_mie\\Uni\\University\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:45:03.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

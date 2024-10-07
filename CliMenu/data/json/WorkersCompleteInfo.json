@@ -1,0 +1,129 @@
+{
+  "Matricola": "I001",
+  "FullName": "Mario Rossi",
+  "Role": 0,
+  "Department": 0,
+  "Age": 49,
+  "City": "Roma",
+  "Province": "Roma",
+  "Address": "Largo Uvia 69",
+  "Cap": "00000",
+  "Phone": "123456789",
+  "WorkedDays": [
+    {
+      "ID": "7533af41-a88d-4497-addf-07fa585969ee",
+      "ActivityDate": "2023-10-07T00:00:00",
+      "JobType": "Pre Festivo",
+      "TotalHours": 4,
+      "Matricola": "I001"
+    },
+    {
+      "ID": "f2b6bf3d-8c00-4ce3-9e0f-731d5d8a1f1a",
+      "ActivityDate": "2023-10-09T00:00:00",
+      "JobType": "Ufficio",
+      "TotalHours": 10,
+      "Matricola": "I001"
+    },
+    {
+      "ID": "d569495a-6640-4971-88f9-2a211dda3320",
+      "ActivityDate": "2023-10-10T00:00:00",
+      "JobType": "Ufficio",
+      "TotalHours": 8,
+      "Matricola": "I001"
+    },
+    {
+      "ID": "46fb6189-e373-4b10-a6c4-ec09e9819014",
+      "ActivityDate": "2023-10-11T00:00:00",
+      "JobType": "Ferie",
+      "TotalHours": 4,
+      "Matricola": "I001"
+    },
+    {
+      "ID": "9a4f17c6-d9ed-4016-983e-7385f6c8510b",
+      "ActivityDate": "2023-10-12T00:00:00",
+      "JobType": "Ufficio",
+      "TotalHours": 8,
+      "Matricola": "I001"
+    },
+    {
+      "ID": "5a7d8ddc-70a7-4ef0-a53a-5284c4670b65",
+      "ActivityDate": "2023-10-13T00:00:00",
+      "JobType": "Ufficio",
+      "TotalHours": 9,
+      "Matricola": "I001"
+    }
+  ],
+  "Machines": [
+    {
+      "Marca": "Mercedes",
+      "Tipo": "benzina",
+      "Cilindrata": "2000cc",
+      "Anno": 1984,
+      "Accidents": "No incidenti",
+      "Matricola": "I001"
+    },
+    {
+      "Marca": "Saab",
+      "Tipo": "diesel",
+      "Cilindrata": "1900cc",
+      "Anno": 2009,
+      "Accidents": "1 incidenti",
+      "Matricola": "I001"
+    },
+    {
+      "Marca": "Scooter Kymco",
+      "Tipo": "benzina",
+      "Cilindrata": "400cc",
+      "Anno": 2010,
+      "Accidents": "no incidenti",
+      "Matricola": "I001"
+    }
+  ],
+  "Holidays": [
+    {
+      "Year": "Vacanze 2023",
+      "Region": "toscana",
+      "Location": "lido Camaiore",
+      "DateRange": "01/07/2023-10/07/2023",
+      "AccommodationType": "pensione completa",
+      "Children": "due bambini",
+      "BeachAccess": "spiaggia pagamento",
+      "Matricola": "I001",
+      "Extras": [
+        {
+          "Service": "moto d\u0027acqua",
+          "Cost": "150Euro"
+        },
+        {
+          "Service": "tennis",
+          "Cost": "40EUro"
+        },
+        {
+          "Service": "Acqua Gym",
+          "Cost": "80Euro"
+        },
+        {
+          "Service": "Libri \u0026 Giornali",
+          "Cost": " 75Euro"
+        }
+      ]
+    }
+  ],
+  "WeigthChecks": [
+    {
+      "DateOfMesurament": "2023-11-11T00:00:00",
+      "Weigth": 74,
+      "Matricola": "I001"
+    },
+    {
+      "DateOfMesurament": "2023-11-18T00:00:00",
+      "Weigth": 73,
+      "Matricola": "I001"
+    },
+    {
+      "DateOfMesurament": "2023-12-02T00:00:00",
+      "Weigth": 71,
+      "Matricola": "I001"
+    }
+  ]
+}

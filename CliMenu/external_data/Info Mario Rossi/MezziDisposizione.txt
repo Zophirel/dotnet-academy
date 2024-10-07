@@ -1,0 +1,3 @@
+Mercedes;benzina;2000cc;1984;No incidenti
+Saab;diesel;1900cc;2009;1 incidenti
+Scooter Kymco;benzina;400cc;2010;no incidenti

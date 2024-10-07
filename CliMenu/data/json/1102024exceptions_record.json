@@ -1,0 +1,126 @@
+[
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T16:58:40.7580485+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T16:58:40.7580485+02:00"
+  },
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T16:58:41.7869798+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T16:58:47.7135304+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T16:59:09.6266401+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:00:57.4480101+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:01:56.3657866+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:02:29.9225897+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:04:13.4192444+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:04:48.7579209+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:05:14.7074676+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:05:43.8992454+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 50",
+    "Time": "2024-10-01T17:06:31.7494563+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 51",
+    "Time": "2024-10-01T17:07:16.3545703+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 51",
+    "Time": "2024-10-01T17:07:27.3951453+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 51",
+    "Time": "2024-10-01T17:07:54.0070562+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 52",
+    "Time": "2024-10-01T17:08:39.7884572+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 52",
+    "Time": "2024-10-01T17:08:58.7306355+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 52",
+    "Time": "2024-10-01T17:11:43.9591776+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027Impiegato\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 52",
+    "Time": "2024-10-01T17:12:21.1702183+02:00"
+  }
+][
+  {
+    "Message": "Requested value \u0027UFFICIO_ACQUISTI\u0027 was not found.",
+    "StackTrace": "   at System.Enum.TryParseByName[TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TStorage\u0026 result)\r\n   at System.Enum.TryParseByValueOrName[TUnderlying,TStorage](RuntimeType enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, TUnderlying\u0026 result)\r\n   at System.Enum.TryParse(Type enumType, ReadOnlySpan\u00601 value, Boolean ignoreCase, Boolean throwOnFailure, Object\u0026 result)\r\n   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)\r\n   at CliMenu.Models.WorkerManager.GetAllWorkers() in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\WorkerManager.cs:line 55",
+    "Time": "2024-10-01T17:22:11.4833308+02:00"
+  }
+]

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorkerModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorkerModel>
+    <Matricola>I001</Matricola>
+    <FullName>Mario Rossi</FullName>
+    <Role>Impiegato</Role>
+    <Department>Ufficio Acquisti</Department>
+    <Age>49</Age>
+    <City>Roma</City>
+    <Province>Roma</Province>
+    <Address>Largo Uvia 69</Address>
+    <Cap>00000</Cap>
+    <Phone>123456789</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>P001</Matricola>
+    <FullName>Sigismondo Della Rotula</FullName>
+    <Role>Operaio</Role>
+    <Department>Assemblaggio Motore</Department>
+    <Age>40</Age>
+    <City>Milano</City>
+    <Province>MI</Province>
+    <Address>Via dell'Acino 341</Address>
+    <Cap>11111</Cap>
+    <Phone>9809876</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>F021</Matricola>
+    <FullName>Erminia Satollà</FullName>
+    <Role>Impiegato</Role>
+    <Department>Ufficio Controllo Qualità</Department>
+    <Age>37</Age>
+    <City>Milano</City>
+    <Province>MI</Province>
+    <Address>Piazza Plutone 12</Address>
+    <Cap>00001</Cap>
+    <Phone>11223344</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>F022</Matricola>
+    <FullName>Eloisia Significata</FullName>
+    <Role>Operaio</Role>
+    <Department>Addetta Servizio Mensa</Department>
+    <Age>51</Age>
+    <City>Milano</City>
+    <Province>MI</Province>
+    <Address>Piazza Salamandra 29</Address>
+    <Cap>00002</Cap>
+    <Phone>4433</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>R002</Matricola>
+    <FullName>Geppo Il Folle</FullName>
+    <Role>Operaio</Role>
+    <Department>Addetto Servizio Mensa</Department>
+    <Age>45</Age>
+    <City>Messina</City>
+    <Province>ME</Province>
+    <Address>Cala delle Sirene 44</Address>
+    <Cap>03000</Cap>
+    <Phone>12039124</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>R025</Matricola>
+    <FullName>Porfirio Cecato</FullName>
+    <Role>Impiegato</Role>
+    <Department>Contabilita</Department>
+    <Age>38</Age>
+    <City>Bergamo</City>
+    <Province>BG</Province>
+    <Address>Viale Guerrieri della Galassia 8</Address>
+    <Cap>20002</Cap>
+    <Phone>39335</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>M154</Matricola>
+    <FullName>Jenny Sapone</FullName>
+    <Role>Impiegato</Role>
+    <Department>Contabilita</Department>
+    <Age>47</Age>
+    <City>Venezia</City>
+    <Province>VE</Province>
+    <Address>Piazzetta dei Puffi 721</Address>
+    <Cap>00003</Cap>
+    <Phone>00998810</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>T098</Matricola>
+    <FullName>Vespasiano Titillo</FullName>
+    <Role>Operaio</Role>
+    <Department>Manutenzione</Department>
+    <Age>42</Age>
+    <City>Roma</City>
+    <Province>Roma</Province>
+    <Address>Viottolo delle CImici Profumate 1000</Address>
+    <Cap>00000</Cap>
+    <Phone>3303942</Phone>
+    <WorkedDays />
+  </WorkerModel>
+  <WorkerModel>
+    <Matricola>S027</Matricola>
+    <FullName>Gianno Pocuciu</FullName>
+    <Role>Operaio</Role>
+    <Department>Manutenzione</Department>
+    <Age>50</Age>
+    <City>Matera</City>
+    <Province>MT</Province>
+    <Address>Via dei Licantropi Spaventati 8887</Address>
+    <Cap>01000</Cap>
+    <Phone>28230</Phone>
+    <WorkedDays />
+  </WorkerModel>
+</ArrayOfWorkerModel>

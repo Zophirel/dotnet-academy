@@ -1,0 +1,241 @@
+[
+  {
+    "Matricola": "I001",
+    "FullName": "Mario Rossi",
+    "Role": "Impiegato",
+    "Department": "Ufficio Acquisti",
+    "Age": 49,
+    "City": "Roma",
+    "Province": "Roma",
+    "Address": "Largo Uvia 69",
+    "Cap": "00000",
+    "Phone": "123456789",
+    "WorkedDays": [
+      {
+        "ID": "7533af41-a88d-4497-addf-07fa585969ee",
+        "ActivityDate": "2023-10-07T00:00:00",
+        "JobType": "Pre Festivo",
+        "TotalHours": 4,
+        "Matricola": "I001"
+      },
+      {
+        "ID": "f2b6bf3d-8c00-4ce3-9e0f-731d5d8a1f1a",
+        "ActivityDate": "2023-10-09T00:00:00",
+        "JobType": "Ufficio",
+        "TotalHours": 10,
+        "Matricola": "I001"
+      },
+      {
+        "ID": "d569495a-6640-4971-88f9-2a211dda3320",
+        "ActivityDate": "2023-10-10T00:00:00",
+        "JobType": "Ufficio",
+        "TotalHours": 8,
+        "Matricola": "I001"
+      },
+      {
+        "ID": "46fb6189-e373-4b10-a6c4-ec09e9819014",
+        "ActivityDate": "2023-10-11T00:00:00",
+        "JobType": "Ferie",
+        "TotalHours": 4,
+        "Matricola": "I001"
+      },
+      {
+        "ID": "9a4f17c6-d9ed-4016-983e-7385f6c8510b",
+        "ActivityDate": "2023-10-12T00:00:00",
+        "JobType": "Ufficio",
+        "TotalHours": 8,
+        "Matricola": "I001"
+      },
+      {
+        "ID": "5a7d8ddc-70a7-4ef0-a53a-5284c4670b65",
+        "ActivityDate": "2023-10-13T00:00:00",
+        "JobType": "Ufficio",
+        "TotalHours": 9,
+        "Matricola": "I001"
+      }
+    ]
+  },
+  {
+    "Matricola": "P001",
+    "FullName": "Sigismondo Della Rotula",
+    "Role": "Operaio",
+    "Department": "Assemblaggio Motore",
+    "Age": 40,
+    "City": "Milano",
+    "Province": "MI",
+    "Address": "Via dell\u0027Acino 341",
+    "Cap": "11111",
+    "Phone": "9809876",
+    "WorkedDays": [
+      {
+        "ID": "194863e1-0afc-432f-8ef7-0c7a67907f25",
+        "ActivityDate": "2023-10-07T00:00:00",
+        "JobType": "Pre Festivo",
+        "TotalHours": 6,
+        "Matricola": "P001"
+      },
+      {
+        "ID": "018a6052-2e09-4b24-9c8e-7104342fc55d",
+        "ActivityDate": "2023-10-09T00:00:00",
+        "JobType": "Ferie",
+        "TotalHours": 9,
+        "Matricola": "P001"
+      },
+      {
+        "ID": "6e253ab4-966c-466b-96e6-2293c705e95a",
+        "ActivityDate": "2023-10-10T00:00:00",
+        "JobType": "Ufficio",
+        "TotalHours": 8,
+        "Matricola": "P001"
+      },
+      {
+        "ID": "038d57d6-a855-42b8-91c4-aff24e1d9f0c",
+        "ActivityDate": "2023-10-11T00:00:00",
+        "JobType": "Ufficio",
+        "TotalHours": 8,
+        "Matricola": "P001"
+      },
+      {
+        "ID": "7191ac2f-60c4-4778-bf04-a825726da960",
+        "ActivityDate": "2023-10-12T00:00:00",
+        "JobType": "Trasferta",
+        "TotalHours": 13,
+        "Matricola": "P001"
+      },
+      {
+        "ID": "49d3b76e-f79b-48b1-868a-9dd61579ff53",
+        "ActivityDate": "2023-10-13T00:00:00",
+        "JobType": "Trasferta",
+        "TotalHours": 9,
+        "Matricola": "P001"
+      }
+    ]
+  },
+  {
+    "Matricola": "F021",
+    "FullName": "Erminia Satoll\u00E0",
+    "Role": "Impiegato",
+    "Department": "Ufficio Controllo Qualit\u00E0",
+    "Age": 37,
+    "City": "Milano",
+    "Province": "MI",
+    "Address": "Piazza Plutone 12",
+    "Cap": "00001",
+    "Phone": "11223344",
+    "WorkedDays": []
+  },
+  {
+    "Matricola": "F022",
+    "FullName": "Eloisia Significata",
+    "Role": "Operaio",
+    "Department": "Addetta Servizio Mensa",
+    "Age": 51,
+    "City": "Milano",
+    "Province": "MI",
+    "Address": "Piazza Salamandra 29",
+    "Cap": "00002",
+    "Phone": "4433",
+    "WorkedDays": [
+      {
+        "ID": "85497ec2-d09b-44b0-a48b-2ef78818fcd9",
+        "ActivityDate": "2023-10-09T00:00:00",
+        "JobType": "Sede",
+        "TotalHours": 8,
+        "Matricola": "F022"
+      },
+      {
+        "ID": "dc6ec80e-e3f2-4ff9-8b0b-e480afae91d8",
+        "ActivityDate": "2022-10-10T00:00:00",
+        "JobType": "Sede",
+        "TotalHours": 8,
+        "Matricola": "F022"
+      },
+      {
+        "ID": "c5f4e7a2-1b89-42e8-bc0c-8689ba82d232",
+        "ActivityDate": "2022-10-11T00:00:00",
+        "JobType": "Sede",
+        "TotalHours": 8,
+        "Matricola": "F022"
+      },
+      {
+        "ID": "7e0c2e89-f727-4826-acde-97ae1bb447ac",
+        "ActivityDate": "2022-10-12T00:00:00",
+        "JobType": "Sede",
+        "TotalHours": 8,
+        "Matricola": "F022"
+      },
+      {
+        "ID": "3646cb7b-7593-4b34-a23e-158815d4b15c",
+        "ActivityDate": "2022-10-13T00:00:00",
+        "JobType": "Sede",
+        "TotalHours": 8,
+        "Matricola": "F022"
+      }
+    ]
+  },
+  {
+    "Matricola": "R002",
+    "FullName": "Geppo Il Folle",
+    "Role": "Operaio",
+    "Department": "Addetto Servizio Mensa",
+    "Age": 45,
+    "City": "Messina",
+    "Province": "ME",
+    "Address": "Cala delle Sirene 44",
+    "Cap": "03000",
+    "Phone": "12039124",
+    "WorkedDays": []
+  },
+  {
+    "Matricola": "R025",
+    "FullName": "Porfirio Cecato",
+    "Role": "Impiegato",
+    "Department": "Contabilita",
+    "Age": 38,
+    "City": "Bergamo",
+    "Province": "BG",
+    "Address": "Viale Guerrieri della Galassia 8",
+    "Cap": "20002",
+    "Phone": "39335",
+    "WorkedDays": []
+  },
+  {
+    "Matricola": "M154",
+    "FullName": "Jenny Sapone",
+    "Role": "Impiegato",
+    "Department": "Contabilita",
+    "Age": 47,
+    "City": "Venezia",
+    "Province": "VE",
+    "Address": "Piazzetta dei Puffi 721",
+    "Cap": "00003",
+    "Phone": "00998810",
+    "WorkedDays": []
+  },
+  {
+    "Matricola": "T098",
+    "FullName": "Vespasiano Titillo",
+    "Role": "Operaio",
+    "Department": "Manutenzione",
+    "Age": 42,
+    "City": "Roma",
+    "Province": "Roma",
+    "Address": "Viottolo delle CImici Profumate 1000",
+    "Cap": "00000",
+    "Phone": "3303942",
+    "WorkedDays": []
+  },
+  {
+    "Matricola": "S027",
+    "FullName": "Gianno Pocuciu",
+    "Role": "Operaio",
+    "Department": "Manutenzione",
+    "Age": 50,
+    "City": "Matera",
+    "Province": "MT",
+    "Address": "Via dei Licantropi Spaventati 8887",
+    "Cap": "01000",
+    "Phone": "28230",
+    "WorkedDays": []
+  }
+]

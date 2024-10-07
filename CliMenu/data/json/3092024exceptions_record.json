@@ -1,0 +1,37 @@
+[
+  {
+    "Message": "Failed to parse WorkDay data.",
+    "StackTrace": "   at CliMenu.Models.DataImporter.ExtractData[T](String[] data) in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\DataImporter.cs:line 78",
+    "Time": "2024-09-30T17:20:34.7744452+02:00"
+  }
+][
+  {
+    "Message": "Failed to parse WorkerModel data.",
+    "StackTrace": "   at CliMenu.Models.DataImporter.ExtractData[T](String[] data) in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\DataImporter.cs:line 113",
+    "Time": "2024-09-30T17:20:34.8072186+02:00"
+  }
+][
+  {
+    "Message": "Failed to parse WorkDay data.",
+    "StackTrace": "   at CliMenu.Models.DataImporter.ExtractData[T](String[] data) in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\DataImporter.cs:line 78",
+    "Time": "2024-09-30T17:20:34.8094725+02:00"
+  }
+][
+  {
+    "Message": "Failed to parse WorkDay data.",
+    "StackTrace": "   at CliMenu.Models.DataImporter.ExtractData[T](String[] data) in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\DataImporter.cs:line 78",
+    "Time": "2024-09-30T17:21:33.8692312+02:00"
+  }
+][
+  {
+    "Message": "Failed to parse WorkerModel data.",
+    "StackTrace": "   at CliMenu.Models.DataImporter.ExtractData[T](String[] data) in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\DataImporter.cs:line 113",
+    "Time": "2024-09-30T17:21:33.903253+02:00"
+  }
+][
+  {
+    "Message": "Failed to parse WorkDay data.",
+    "StackTrace": "   at CliMenu.Models.DataImporter.ExtractData[T](String[] data) in C:\\Users\\franc\\Desktop\\dotnet-academy\\CliMenu\\Models\\DataImporter.cs:line 78",
+    "Time": "2024-09-30T17:21:33.9036765+02:00"
+  }
+]
