@@ -1,0 +1,101 @@
+Id,Name,Faculty,CFU,IsOnline,Classroom
+4e7198cc-fa78-46b7-91b7-42135a2e4ebc,Genetics,LAW,6,False,E
+bc2b5a67-d9d8-44cc-8de8-63c6709d685a,Cognitive Psychology,COMPUTER_SCIENCE,6,True,LAB_3
+c4e04e75-e34b-4f79-b71e-a48878fec483,Marketing,LAW,6,False,A
+f5a1c081-fcab-43d6-936a-bed7200c4ef2,Algorithms,PSYCHOLOGY,5,True,A
+21dc4157-f336-4f6a-8cda-6c85f74f5689,Genetics,COMPUTER_SCIENCE,9,False,D
+5ff761bb-1f03-4de3-b74b-22f6801d076f,Corporate Finance,COMPUTER_SCIENCE,3,False,B
+a032f998-6daa-4ce8-8aff-1893a0bc473c,Genetics,BUSINESS_AND_MANAGEMENT,5,True,LAB_1
+bc560c76-0ac4-454f-822b-36760f787337,Behavioral Science,LAW,5,False,LAB_2
+64f70be9-8885-4660-b7b9-7e30622e8ddd,Behavioral Science,COMPUTER_SCIENCE,6,True,B
+2f53ce11-f165-4d89-8a40-7ed9bda656a6,Cognitive Psychology,COMPUTER_SCIENCE,12,False,F
+690169f3-1bb3-4b9f-be31-a24c74a320aa,Behavioral Science,COMPUTER_SCIENCE,12,False,B
+619a3dd3-1d74-4a0a-8ea7-24c96b9630de,Algorithms,COMPUTER_SCIENCE,3,True,LAB_3
+289f640d-017c-4c68-b08a-c4351f63135a,Data Structures,COMPUTER_SCIENCE,3,False,ONLINE
+5ebeecbd-fa80-4b5c-90ac-5438bd6f5bd3,Criminal Law,LAW,11,False,D
+0aea896c-2ef5-4821-a2ff-32ce27b4fb8b,Biochemistry,BUSINESS_AND_MANAGEMENT,6,False,B
+ac3b9a9d-b4c7-4319-9c0d-73ed7b98ae86,Behavioral Science,COMPUTER_SCIENCE,3,True,ONLINE
+d86f5850-99ae-4fdd-997a-727fb0e4cf4d,Corporate Finance,BIOLOGY,7,False,D
+a7007f41-f2a0-4ffd-9c06-02a47410c019,Constitutional Law,BUSINESS_AND_MANAGEMENT,3,True,ONLINE
+537ab133-9f58-48c9-ae9f-949b176e6c11,Cognitive Psychology,LAW,12,True,B
+c20b5344-1fb7-460a-b2b0-d1af0bd96aa4,Constitutional Law,COMPUTER_SCIENCE,5,True,LAB_2
+60eaba6d-af97-4acc-878d-4b016e61b9e3,Marketing,BIOLOGY,6,False,A
+0a1cab5e-797f-413c-8ea6-f52063007480,Corporate Finance,LAW,8,False,B
+ccda909b-e615-426e-a071-bce887c9e111,Biochemistry,BIOLOGY,4,False,F
+f203f89c-a1a0-4881-a8b5-f66f418ec27f,Marketing,PSYCHOLOGY,8,False,LAB_2
+65a4f8a8-176c-49e6-a1e6-7eca18112294,Behavioral Science,LAW,5,True,C
+c762e10c-c220-41cd-905e-5bb86e1bd81a,Biochemistry,LAW,9,True,LAB_2
+ad315a24-84bc-429f-a821-409de84fff30,Cognitive Psychology,PSYCHOLOGY,5,False,F
+dae881c4-f9d8-4f70-9860-c04a59696e0f,Constitutional Law,COMPUTER_SCIENCE,8,True,LAB_1
+b5fe12a7-8e48-4319-a67d-821087d70589,Genetics,BIOLOGY,7,False,ONLINE
+6f5e376d-fddf-487d-ac11-038a27e991d1,Behavioral Science,COMPUTER_SCIENCE,5,True,A
+e443fbec-5f07-46df-bd6d-55788b372e95,Constitutional Law,BIOLOGY,8,False,ONLINE
+b0ea8b66-c47e-4bd9-8850-e49924f9718d,Algorithms,LAW,6,False,LAB_1
+3b7f0b50-c077-4ecd-bbb8-9c4f856565ef,Biochemistry,LAW,4,True,B
+02ab0747-05d5-4cb0-aece-01ce7cf48dc2,Criminal Law,BUSINESS_AND_MANAGEMENT,10,False,LAB_3
+8bf9b971-27ce-48bf-ba95-7f148e4dc777,Behavioral Science,LAW,9,True,ONLINE
+ada9778b-7ea4-437f-ac1c-9f391365c8b2,Algorithms,LAW,4,True,LAB_3
+c00676b1-e71a-4f51-8516-70874381e37f,Cognitive Psychology,COMPUTER_SCIENCE,12,True,C
+6b7a982c-5849-477b-882c-772d1e07ddba,Data Structures,BIOLOGY,4,True,D
+9a60acec-0535-4c05-9628-563a63ce5047,Cognitive Psychology,BIOLOGY,9,True,A
+48612857-6aa1-4c48-a077-2fefbe638de6,Algorithms,LAW,9,True,E
+c91e8387-afa2-4a15-800e-cdf00187cab9,Algorithms,BIOLOGY,10,False,LAB_3
+636bcddf-3a2d-4c73-957e-8b8eeb24fcc4,Biochemistry,PSYCHOLOGY,11,True,A
+37553657-6f4f-4dc3-a92b-cf1876eb2537,Biochemistry,COMPUTER_SCIENCE,9,True,LAB_1
+83a1fd8b-ff79-4ce8-bab7-2269cee86395,Criminal Law,PSYCHOLOGY,7,True,D
+87b75285-b168-4484-a785-bf408dc656d0,Algorithms,PSYCHOLOGY,8,False,A
+aed81872-85c9-47e4-9cc8-bcd41d155f3a,Biochemistry,COMPUTER_SCIENCE,9,True,E
+7e861d80-e014-4949-9a24-906b97db8ae8,Biochemistry,LAW,11,False,LAB_2
+c3bb7286-a918-4a5b-9fd4-36ff776e4996,Algorithms,BUSINESS_AND_MANAGEMENT,4,False,LAB_2
+947da505-9772-4341-8bdb-6a9f7177eb50,Algorithms,COMPUTER_SCIENCE,8,False,A
+7d5fe375-e4bb-4ed5-9f8d-cbdf665cacac,Data Structures,LAW,12,True,LAB_1
+10824aae-f7fd-4cec-af91-79b1531bf3df,Constitutional Law,BIOLOGY,3,True,D
+f44f7d71-0ce7-4ec4-a283-6c0682b24cfd,Marketing,LAW,5,False,F
+bf8e1e3b-44cb-4ac4-b5dc-10d81a493fee,Algorithms,COMPUTER_SCIENCE,11,False,ONLINE
+7ae5bf80-a4bd-4111-b56c-ec81161ad41b,Cognitive Psychology,BUSINESS_AND_MANAGEMENT,3,True,B
+d676dbbc-9e25-4433-9bfe-9bbf50885d98,Marketing,COMPUTER_SCIENCE,6,True,A
+4facaa54-1829-4dca-8c90-a664075d2977,Data Structures,BUSINESS_AND_MANAGEMENT,11,True,E
+c99a80c8-6611-4b7f-a8c1-05eab4272d0b,Biochemistry,BIOLOGY,3,False,A
+718736fa-0c66-4d06-8873-ddfc29a21161,Genetics,COMPUTER_SCIENCE,11,True,B
+c9a63b0f-13e9-40ef-acf8-ade42122c178,Algorithms,BIOLOGY,10,False,D
+1254b78d-a0ac-4c04-a3aa-6d2e09eee32d,Marketing,BUSINESS_AND_MANAGEMENT,12,True,C
+39fc3007-701f-43a4-8837-4f6362f63026,Algorithms,COMPUTER_SCIENCE,6,False,F
+7d8fe343-d183-4140-8f32-8b4f50d86ae9,Biochemistry,COMPUTER_SCIENCE,3,False,A
+dbe48268-ef6e-480e-b016-8b3bb9c4b73b,Corporate Finance,COMPUTER_SCIENCE,5,True,LAB_3
+46b01911-5585-4de8-b4dd-1266ecfa88c1,Cognitive Psychology,PSYCHOLOGY,8,False,D
+34912e43-2f30-423f-9c86-b30db969a352,Corporate Finance,LAW,3,True,B
+f2980bf7-c213-483b-9e24-dd5c0633d6d7,Biochemistry,BIOLOGY,12,False,F
+c39a7e74-8bfc-4b1a-bc38-0064e96c4b28,Behavioral Science,BIOLOGY,4,True,B
+d8984820-1e0b-4d0f-a09c-299d30d04773,Biochemistry,LAW,6,False,D
+71d552ef-fe8c-4e9a-9c52-e0a98940f13c,Genetics,COMPUTER_SCIENCE,5,True,LAB_3
+350dec8a-5c4e-47c3-b3ef-22846c042e1e,Corporate Finance,PSYCHOLOGY,8,True,F
+75901b66-7c04-4629-872f-d12d8e4be852,Corporate Finance,COMPUTER_SCIENCE,12,True,B
+a1dc3a25-1e49-47f7-9a22-679e8b4c4fcd,Genetics,COMPUTER_SCIENCE,7,False,LAB_2
+f3e971a0-ea67-424c-8fd8-130af0ccc21b,Marketing,BIOLOGY,8,True,LAB_3
+8ac887be-8b2f-445c-b142-d29d6af8d638,Corporate Finance,BIOLOGY,12,False,LAB_2
+8f07dd34-e944-4211-98ae-8166334dff69,Algorithms,LAW,8,False,ONLINE
+affbf0ed-a99a-48b5-bf8f-c4eec3c3e186,Marketing,PSYCHOLOGY,9,False,B
+16d55bf1-ee0b-4666-b731-c1db5604b487,Marketing,COMPUTER_SCIENCE,4,True,A
+1995085b-f31e-4d90-80fd-59f5b208f0bc,Cognitive Psychology,PSYCHOLOGY,12,False,B
+ac46b400-5176-42af-a781-c1efc60b7361,Marketing,COMPUTER_SCIENCE,7,True,LAB_2
+a0749967-0d07-4a19-b9fd-7ecaf613b24c,Cognitive Psychology,BUSINESS_AND_MANAGEMENT,6,True,LAB_1
+76bc5a9b-fd3d-49d5-a4fb-fb4400357b66,Marketing,PSYCHOLOGY,7,True,LAB_2
+2059b950-158c-4efd-9c58-eb42f2b58150,Genetics,PSYCHOLOGY,11,True,LAB_3
+9835c86d-887b-4c03-a9c2-c04cfec99391,Algorithms,BIOLOGY,10,False,B
+6fc6130e-3e8c-4f74-a675-4cf98504cf8f,Marketing,LAW,11,False,F
+6803d2a1-79f6-446c-9e45-80884eee98c0,Genetics,PSYCHOLOGY,12,False,LAB_3
+7af25466-6929-4ea9-9566-c4329012bbe7,Biochemistry,BUSINESS_AND_MANAGEMENT,5,False,E
+d1ed9def-3f09-46e7-8d24-7d1647f1ab11,Cognitive Psychology,BIOLOGY,7,True,D
+228e9bd7-62a8-4c3c-bea6-60b95450de5b,Genetics,BUSINESS_AND_MANAGEMENT,8,True,E
+3a52c49e-a6dc-4719-a128-eac010969941,Data Structures,LAW,3,True,C
+085de37b-527d-46e6-9863-abfc77897428,Corporate Finance,BIOLOGY,5,False,A
+493ea080-5917-4241-afb2-8a1cd930021f,Behavioral Science,PSYCHOLOGY,10,False,A
+375ef9c6-6ee1-4ca9-88c1-2d9f3f55d89d,Marketing,LAW,7,False,A
+9811ce6b-5cfa-4182-8f4d-0a6f3de7ab7d,Criminal Law,PSYCHOLOGY,3,False,LAB_3
+fccd1ca0-5964-45f9-ac75-eaa1cabab3d3,Constitutional Law,BIOLOGY,12,True,E
+26396b03-b291-4226-8c9e-5057ac4142e7,Corporate Finance,COMPUTER_SCIENCE,8,False,LAB_2
+c694a0d3-d6a4-4e9b-9928-2d5c94364295,Data Structures,COMPUTER_SCIENCE,3,False,ONLINE
+a7cd9528-8e6c-4872-a335-453a0e42a35c,Cognitive Psychology,COMPUTER_SCIENCE,12,False,LAB_3
+ccad2668-401c-44c7-bc25-7465ce547923,Algorithms,BUSINESS_AND_MANAGEMENT,7,True,LAB_2
+a7d1158b-3e8b-495e-ac6b-ae9ef4b988e6,Cognitive Psychology,PSYCHOLOGY,9,False,D
+04c4fbe6-c319-4e5c-ac53-ee6a2a384466,Corporate Finance,PSYCHOLOGY,8,True,E
