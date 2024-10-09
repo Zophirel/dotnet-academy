@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace University.BLogic
+﻿namespace University.BLogic
 {
     public enum StartMenuFunctions
     {
@@ -49,7 +43,7 @@ namespace University.BLogic
     {
         SINGLE = 1,
         MARRIED,
-        DICORCED,
+        DIVORCED,
         WIDOWED
     }
 

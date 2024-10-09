@@ -1,0 +1,5450 @@
+[
+  {
+    "Exams": [
+      {
+        "Id": "137f2047-3811-40a1-b6a9-1fc9acf0a0e4",
+        "Faculty": 3,
+        "Name": "Clinical Psychology",
+        "CFU": 6,
+        "Date": "2023-10-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 76,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "137f2047-3811-40a1-b6a9-1fc9acf0a0e4",
+        "Faculty": 3,
+        "Name": "Clinical Psychology",
+        "CFU": 6,
+        "Date": "2023-10-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 76,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "1e70ab3d-8c4e-49c7-8c78-c8e50968dfa8",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "7a3ac3fe-f7c4-4f66-af2d-f79fe879a400",
+        "Faculty": 3,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 7
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1990-11-10T00:00:00",
+    "Salary": 84403.8,
+    "Id": "628ed0e6-87d0-49e9-b0cf-1b671d13ea5a",
+    "FullName": "James Johnson",
+    "Gender": "Male",
+    "Address": "594 University Ave",
+    "Email": "staff3115@example.com",
+    "Phone": "\u002B18445508883",
+    "BirthYear": "1983-03-10T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "330bec00-e44f-4f87-a9cd-bd982fd9143c",
+        "Faculty": 3,
+        "Name": "Operating Systems",
+        "CFU": 7,
+        "Date": "2023-03-27T00:00:00",
+        "IsOnline": true,
+        "Participants": 72,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "00318f65-b889-4dad-bad6-7f8ac9a51f76",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 8,
+        "Date": "2021-11-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 67,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "7560d08e-274d-4431-9878-81407e648348",
+        "Faculty": 3,
+        "Name": "Fashion Marketing",
+        "CFU": 5,
+        "Date": "2023-12-12T00:00:00",
+        "IsOnline": true,
+        "Participants": 52,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "adddad0f-91ce-4f1d-a9fa-68651eed3fe3",
+        "Faculty": 3,
+        "Name": "Artificial Intelligence",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "17c10d39-3e2f-4fc3-a517-d253ab5ac65d",
+        "Faculty": 3,
+        "Name": "Business Statistics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "bf13c360-3ad8-4f9c-8a13-12343b24e195",
+        "Faculty": 3,
+        "Name": "Corporate Finance",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2016-12-18T00:00:00",
+    "Salary": 69661.23,
+    "Id": "de5608a8-45a7-463c-89dc-360d12412fe1",
+    "FullName": "James Walker",
+    "Gender": "Male",
+    "Address": "570 University Ave",
+    "Email": "staff2250@example.com",
+    "Phone": "\u002B15875463616",
+    "BirthYear": "1962-04-20T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "de86dd15-c733-4398-b281-aa56fdd800a7",
+        "Faculty": 6,
+        "Name": "Artificial Intelligence",
+        "CFU": 6,
+        "Date": "2022-09-23T00:00:00",
+        "IsOnline": true,
+        "Participants": 46,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "de86dd15-c733-4398-b281-aa56fdd800a7",
+        "Faculty": 6,
+        "Name": "Artificial Intelligence",
+        "CFU": 6,
+        "Date": "2022-09-23T00:00:00",
+        "IsOnline": true,
+        "Participants": 46,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "5ca24f32-f53e-4fc9-aa8b-1ee9e18c2cae",
+        "Faculty": 6,
+        "Name": "Business Strategy",
+        "CFU": 3,
+        "Date": "2022-07-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 57,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "5241bc9c-7c5b-4f9c-ab43-44ccabc68154",
+        "Faculty": 6,
+        "Name": "Business Statistics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1992-12-20T00:00:00",
+    "Salary": 91080.99,
+    "Id": "54b6f7f7-c58d-4602-b910-646c465bf287",
+    "FullName": "James Lewis",
+    "Gender": "Male",
+    "Address": "953 University Ave",
+    "Email": "staff1453@example.com",
+    "Phone": "\u002B16938111384",
+    "BirthYear": "1961-11-28T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "2b6becdc-31cb-4c98-82cb-f34b391d0a98",
+        "Faculty": 2,
+        "Name": "Operating Systems",
+        "CFU": 5,
+        "Date": "2023-01-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 40,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9e00b40e-74a4-446b-8554-1d524a6654a9",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1998-04-06T00:00:00",
+    "Salary": 82055.38,
+    "Id": "3cdf6684-4fa8-4242-9529-38a50e495223",
+    "FullName": "Alice Smith",
+    "Gender": "Male",
+    "Address": "156 University Ave",
+    "Email": "staff6328@example.com",
+    "Phone": "\u002B17839498248",
+    "BirthYear": "1982-01-03T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "47c42cbc-66a2-4c29-8c3c-fed045171654",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2021-03-07T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "c1de7bc5-9193-4180-a1ae-3a874ba79fc0",
+        "Faculty": 8,
+        "Name": "Data Structures",
+        "CFU": 2,
+        "Date": "2021-05-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 33,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e62451ce-56e2-4750-9323-9f57567a89d7",
+        "Faculty": 8,
+        "Name": "Linguistics Analysis",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "fc80b919-fe62-41b2-a259-737013421a4c",
+        "Faculty": 8,
+        "Name": "Genetics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1998-11-15T00:00:00",
+    "Salary": 83219.47,
+    "Id": "2a25ed7d-e526-4467-9f91-2353c1ad7162",
+    "FullName": "Jessica Taylor",
+    "Gender": "Female",
+    "Address": "423 University Ave",
+    "Email": "staff1070@example.com",
+    "Phone": "\u002B17490438330",
+    "BirthYear": "1971-01-14T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "3d4476bf-b036-427f-b7e9-a73c4d917fee",
+        "Faculty": 2,
+        "Name": "Fashion Marketing",
+        "CFU": 10,
+        "Date": "2021-03-18T00:00:00",
+        "IsOnline": true,
+        "Participants": 73,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3669ae1f-6ff9-4298-b6f7-c84197490b96",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2002-03-23T00:00:00",
+    "Salary": 85435.9,
+    "Id": "a86f797a-cbcd-4faf-a69a-752f89b83836",
+    "FullName": "Linda Lewis",
+    "Gender": "Female",
+    "Address": "903 University Ave",
+    "Email": "staff3258@example.com",
+    "Phone": "\u002B18407099555",
+    "BirthYear": "1966-12-06T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "7560d08e-274d-4431-9878-81407e648348",
+        "Faculty": 3,
+        "Name": "Fashion Marketing",
+        "CFU": 5,
+        "Date": "2023-12-12T00:00:00",
+        "IsOnline": true,
+        "Participants": 52,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "ab4af7e6-4221-4b19-a10a-06b063bc02ba",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2022-04-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 23,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "d4f344b5-7993-4bf3-8b16-bb0e97d54c07",
+        "Faculty": 3,
+        "Name": "Constitutional Law",
+        "CFU": 2,
+        "Date": "2021-07-21T00:00:00",
+        "IsOnline": true,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "17c10d39-3e2f-4fc3-a517-d253ab5ac65d",
+        "Faculty": 3,
+        "Name": "Business Statistics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "1e70ab3d-8c4e-49c7-8c78-c8e50968dfa8",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "17c10d39-3e2f-4fc3-a517-d253ab5ac65d",
+        "Faculty": 3,
+        "Name": "Business Statistics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2006-06-24T00:00:00",
+    "Salary": 64894.45,
+    "Id": "6f540b5c-cd61-4dbb-958b-82ef93cd63c7",
+    "FullName": "Linda Smith",
+    "Gender": "Male",
+    "Address": "133 University Ave",
+    "Email": "staff1949@example.com",
+    "Phone": "\u002B12032404800",
+    "BirthYear": "1955-05-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "102568fb-270d-4c3a-8ab7-5418d6e0caec",
+        "Faculty": 8,
+        "Name": "Fashion Illustration",
+        "CFU": 5,
+        "Date": "2020-02-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 59,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "47c42cbc-66a2-4c29-8c3c-fed045171654",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2021-03-07T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "102568fb-270d-4c3a-8ab7-5418d6e0caec",
+        "Faculty": 8,
+        "Name": "Fashion Illustration",
+        "CFU": 5,
+        "Date": "2020-02-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 59,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c454b58d-5c09-438b-8fba-1843808dda4e",
+        "Faculty": 8,
+        "Name": "Nursing Ethics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "e62451ce-56e2-4750-9323-9f57567a89d7",
+        "Faculty": 8,
+        "Name": "Linguistics Analysis",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "7eb20d54-0fab-4a5d-896f-7ebef352df28",
+        "Faculty": 8,
+        "Name": "Strategic Management",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1999-11-28T00:00:00",
+    "Salary": 96219.57,
+    "Id": "7dd995f1-d985-418d-85f2-76926503eea6",
+    "FullName": "Alice Brown",
+    "Gender": "Male",
+    "Address": "778 University Ave",
+    "Email": "staff5292@example.com",
+    "Phone": "\u002B12225841126",
+    "BirthYear": "1953-05-15T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "e3520767-f905-4020-8e8d-0b8214098f2e",
+        "Faculty": 8,
+        "Name": "Constitutional Law",
+        "CFU": 5,
+        "Date": "2023-03-15T00:00:00",
+        "IsOnline": false,
+        "Participants": 78,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "721b1d7e-1c20-4052-b147-1c965c46f77a",
+        "Faculty": 8,
+        "Name": "Translation Studies",
+        "CFU": 5,
+        "Date": "2022-01-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 48,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "2541b2bf-f0aa-4384-b59d-0ddfcd52e126",
+        "Faculty": 8,
+        "Name": "Molecular Biology",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "c454b58d-5c09-438b-8fba-1843808dda4e",
+        "Faculty": 8,
+        "Name": "Nursing Ethics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2018-10-02T00:00:00",
+    "Salary": 62170.92,
+    "Id": "3e5ca565-a134-4da2-b4a8-9646fabaffca",
+    "FullName": "Linda Taylor",
+    "Gender": "Female",
+    "Address": "411 University Ave",
+    "Email": "staff6834@example.com",
+    "Phone": "\u002B19488066147",
+    "BirthYear": "1976-12-13T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "cb889335-ef55-4a33-a7e6-908c295eb414",
+        "Faculty": 4,
+        "Name": "Advanced Mathematics",
+        "CFU": 7,
+        "Date": "2023-12-17T00:00:00",
+        "IsOnline": true,
+        "Participants": 80,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "bbe785cc-b3a3-46d5-968c-1477da77162c",
+        "Faculty": 4,
+        "Name": "Nursing Ethics",
+        "CFU": 3,
+        "Date": "2021-11-12T00:00:00",
+        "IsOnline": false,
+        "Participants": 70,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "4775a8f7-fc9b-47ee-a297-c31b25fc9270",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 7,
+        "Date": "2020-08-22T00:00:00",
+        "IsOnline": true,
+        "Participants": 22,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7789cf87-40de-47bd-999b-04ce397c3dc6",
+        "Faculty": 4,
+        "Name": "Business Statistics",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "9b4a7182-7a26-46b2-bd5f-25257fd35d03",
+        "Faculty": 4,
+        "Name": "Discrete Mathematics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "46e54df0-77d9-423e-86e5-39539aa78a6c",
+        "Faculty": 4,
+        "Name": "Linguistics Analysis",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2007-09-10T00:00:00",
+    "Salary": 96533.58,
+    "Id": "fe4984b5-5dc0-4e34-957f-e0a8bfef4739",
+    "FullName": "Sarah White",
+    "Gender": "Female",
+    "Address": "255 University Ave",
+    "Email": "staff9039@example.com",
+    "Phone": "\u002B17541631897",
+    "BirthYear": "1967-04-01T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "6ffa2a02-bcc4-4017-802e-7a3e9bc8a2d2",
+        "Faculty": 5,
+        "Name": "Nursing Ethics",
+        "CFU": 7,
+        "Date": "2021-11-22T00:00:00",
+        "IsOnline": true,
+        "Participants": 84,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "3e9b40c3-ee9f-4cc4-87ec-f52776e02617",
+        "Faculty": 5,
+        "Name": "Cognitive Psychology",
+        "CFU": 12,
+        "Date": "2020-12-14T00:00:00",
+        "IsOnline": false,
+        "Participants": 43,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "4a52477d-8605-44dc-8151-801054ab7e99",
+        "Faculty": 5,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "c5157b69-3e71-4034-a2ec-4483fcf67f94",
+        "Faculty": 5,
+        "Name": "Corporate Finance",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2003-03-18T00:00:00",
+    "Salary": 96776.56,
+    "Id": "d349f612-9075-4b2c-b6a2-b946115eca4a",
+    "FullName": "Jessica Anderson",
+    "Gender": "Female",
+    "Address": "110 University Ave",
+    "Email": "staff2066@example.com",
+    "Phone": "\u002B14250997957",
+    "BirthYear": "1973-01-26T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 5
+  },
+  {
+    "Exams": [
+      {
+        "Id": "aafc02e4-a5a6-430f-87d0-ab5e00512747",
+        "Faculty": 1,
+        "Name": "Nursing Ethics",
+        "CFU": 3,
+        "Date": "2023-06-13T00:00:00",
+        "IsOnline": true,
+        "Participants": 96,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "21332062-eb4a-4e1a-b96f-4e52b5a128a0",
+        "Faculty": 1,
+        "Name": "Microbiology",
+        "CFU": 7,
+        "Date": "2021-05-17T00:00:00",
+        "IsOnline": false,
+        "Participants": 89,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "9045b3a3-4615-4331-a1b0-4dab3994950f",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "Date": "2022-02-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 83,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c6479445-b463-44d0-8027-7d9a195d0e44",
+        "Faculty": 1,
+        "Name": "Strategic Management",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "cee11b17-09f1-45ee-b75a-c8721c37c52b",
+        "Faculty": 1,
+        "Name": "Microeconomics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "903eb727-eddd-488e-9963-7663a364d9b7",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1999-09-22T00:00:00",
+    "Salary": 84212.13,
+    "Id": "8c9fbdd0-849d-4954-b14b-420f9b3d83db",
+    "FullName": "Jessica Walker",
+    "Gender": "Male",
+    "Address": "463 University Ave",
+    "Email": "staff5221@example.com",
+    "Phone": "\u002B17316941144",
+    "BirthYear": "1962-05-20T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "38e4bef7-8bb6-4bbe-b3d4-86ab6d3bf350",
+        "Faculty": 7,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2022-06-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "a4d74851-d9ef-4bc6-8adb-68f703ac4d28",
+        "Faculty": 7,
+        "Name": "Linguistics Analysis",
+        "CFU": 3,
+        "Date": "2022-09-14T00:00:00",
+        "IsOnline": true,
+        "Participants": 11,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e64bf68e-b19e-4cec-94c3-b0103f545d52",
+        "Faculty": 7,
+        "Name": "Database Systems",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "67d96214-6d75-4bb4-a538-200539f07612",
+        "Faculty": 7,
+        "Name": "Corporate Finance",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1993-06-19T00:00:00",
+    "Salary": 86334.0,
+    "Id": "201bc536-7324-469f-96ca-4f832f0ab628",
+    "FullName": "Sarah Johnson",
+    "Gender": "Female",
+    "Address": "144 University Ave",
+    "Email": "staff6270@example.com",
+    "Phone": "\u002B15071910694",
+    "BirthYear": "1960-06-18T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b86ae59c-2ae7-4525-a566-8324af268511",
+        "Faculty": 4,
+        "Name": "Developmental Psychology",
+        "CFU": 12,
+        "Date": "2020-01-20T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "94de534f-a8e9-4ce0-9e0f-34487d887f3e",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 7,
+        "Date": "2022-06-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "e7e585cc-5f36-401f-8e8f-3e63142db475",
+        "Faculty": 4,
+        "Name": "Business Strategy",
+        "CFU": 6,
+        "Date": "2020-02-27T00:00:00",
+        "IsOnline": true,
+        "Participants": 54,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9b4a7182-7a26-46b2-bd5f-25257fd35d03",
+        "Faculty": 4,
+        "Name": "Discrete Mathematics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "f253851b-3d9f-4e27-aeaa-c50ff99de331",
+        "Faculty": 4,
+        "Name": "Cognitive Psychology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "084d43fc-18a0-4861-a3ac-2c8616eddaa6",
+        "Faculty": 4,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2006-04-13T00:00:00",
+    "Salary": 86791.49,
+    "Id": "439f1c39-4c6a-4d7a-99f9-eac6511ff52b",
+    "FullName": "Robert White",
+    "Gender": "Female",
+    "Address": "510 University Ave",
+    "Email": "staff6964@example.com",
+    "Phone": "\u002B17108478628",
+    "BirthYear": "1950-05-28T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "dc4a4b63-8813-4b57-a162-aff2b7c4bbd9",
+        "Faculty": 4,
+        "Name": "Pediatric Nursing",
+        "CFU": 6,
+        "Date": "2020-02-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 32,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "b86ae59c-2ae7-4525-a566-8324af268511",
+        "Faculty": 4,
+        "Name": "Developmental Psychology",
+        "CFU": 12,
+        "Date": "2020-01-20T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "94de534f-a8e9-4ce0-9e0f-34487d887f3e",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 7,
+        "Date": "2022-06-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "39b61d8f-1b3a-4212-bf99-62143b563864",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "f253851b-3d9f-4e27-aeaa-c50ff99de331",
+        "Faculty": 4,
+        "Name": "Cognitive Psychology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "7fde480f-9849-480a-894e-bfbab6282516",
+        "Faculty": 4,
+        "Name": "Biomedical Ethics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2010-01-25T00:00:00",
+    "Salary": 95936.79,
+    "Id": "1a7e62e8-2314-441e-a255-b40292d6a532",
+    "FullName": "Sarah Clark",
+    "Gender": "Male",
+    "Address": "613 University Ave",
+    "Email": "staff9896@example.com",
+    "Phone": "\u002B15203384868",
+    "BirthYear": "1961-10-19T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "721b1d7e-1c20-4052-b147-1c965c46f77a",
+        "Faculty": 8,
+        "Name": "Translation Studies",
+        "CFU": 5,
+        "Date": "2022-01-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 48,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c454b58d-5c09-438b-8fba-1843808dda4e",
+        "Faculty": 8,
+        "Name": "Nursing Ethics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2005-03-07T00:00:00",
+    "Salary": 92318.03,
+    "Id": "adf81a1c-de53-4621-a976-067d9e6c8a78",
+    "FullName": "Brian Brown",
+    "Gender": "Female",
+    "Address": "742 University Ave",
+    "Email": "staff1013@example.com",
+    "Phone": "\u002B13362188862",
+    "BirthYear": "1961-11-13T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "e4f8f49c-4ce5-4b9c-856a-699ccee8e6f0",
+        "Faculty": 2,
+        "Name": "Accounting",
+        "CFU": 8,
+        "Date": "2023-02-01T00:00:00",
+        "IsOnline": true,
+        "Participants": 28,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "314257d4-896d-444c-b21f-2ab9d6c53d28",
+        "Faculty": 2,
+        "Name": "Business Strategy",
+        "CFU": 11,
+        "Date": "2022-08-22T00:00:00",
+        "IsOnline": false,
+        "Participants": 87,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3669ae1f-6ff9-4298-b6f7-c84197490b96",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "e0667dbc-cf68-4401-88d0-2f3a5ee0a1ac",
+        "Faculty": 2,
+        "Name": "Discrete Mathematics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2004-09-18T00:00:00",
+    "Salary": 81367.43,
+    "Id": "8b24ce6f-9aa6-45dc-b593-330fa7bd8bee",
+    "FullName": "Brian Brown",
+    "Gender": "Male",
+    "Address": "972 University Ave",
+    "Email": "staff4016@example.com",
+    "Phone": "\u002B13739109294",
+    "BirthYear": "1959-07-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "565194a1-5dbe-41d7-af44-b9df19821da4",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 4,
+        "Date": "2023-01-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 45,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "e7e585cc-5f36-401f-8e8f-3e63142db475",
+        "Faculty": 4,
+        "Name": "Business Strategy",
+        "CFU": 6,
+        "Date": "2020-02-27T00:00:00",
+        "IsOnline": true,
+        "Participants": 54,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "94de534f-a8e9-4ce0-9e0f-34487d887f3e",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 7,
+        "Date": "2022-06-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "084d43fc-18a0-4861-a3ac-2c8616eddaa6",
+        "Faculty": 4,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "084d43fc-18a0-4861-a3ac-2c8616eddaa6",
+        "Faculty": 4,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "f253851b-3d9f-4e27-aeaa-c50ff99de331",
+        "Faculty": 4,
+        "Name": "Cognitive Psychology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1997-05-23T00:00:00",
+    "Salary": 71445.28,
+    "Id": "887b4d21-1b4f-41bf-bab9-a3005bfd98ce",
+    "FullName": "Emily Smith",
+    "Gender": "Male",
+    "Address": "667 University Ave",
+    "Email": "staff6051@example.com",
+    "Phone": "\u002B19202375921",
+    "BirthYear": "1958-01-11T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b86ae59c-2ae7-4525-a566-8324af268511",
+        "Faculty": 4,
+        "Name": "Developmental Psychology",
+        "CFU": 12,
+        "Date": "2020-01-20T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "271b2d16-6f83-49f9-8e41-0033847e736b",
+        "Faculty": 4,
+        "Name": "Artificial Intelligence",
+        "CFU": 7,
+        "Date": "2022-10-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 95,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9b4a7182-7a26-46b2-bd5f-25257fd35d03",
+        "Faculty": 4,
+        "Name": "Discrete Mathematics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "7350fe73-7f5a-4649-9468-58b3a5b8e95e",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2018-12-03T00:00:00",
+    "Salary": 74840.67,
+    "Id": "e635fc9c-3632-4182-8f4c-199342e6d791",
+    "FullName": "James Johnson",
+    "Gender": "Female",
+    "Address": "722 University Ave",
+    "Email": "staff3945@example.com",
+    "Phone": "\u002B18029148905",
+    "BirthYear": "1990-12-15T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "eef64bbb-144f-446c-94c2-b538706f2601",
+        "Faculty": 1,
+        "Name": "Genetics",
+        "CFU": 5,
+        "Date": "2023-12-23T00:00:00",
+        "IsOnline": true,
+        "Participants": 34,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "7cb3c599-523a-4fff-a0bf-86ec6f81d3dc",
+        "Faculty": 1,
+        "Name": "Translation Studies",
+        "CFU": 10,
+        "Date": "2022-10-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 36,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "903eb727-eddd-488e-9963-7663a364d9b7",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "74ba11a4-0842-443b-a366-ff38be228316",
+        "Faculty": 1,
+        "Name": "Physiology",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2002-12-06T00:00:00",
+    "Salary": 66460.0,
+    "Id": "297f9726-a8db-46df-921c-712546946072",
+    "FullName": "Robert Clark",
+    "Gender": "Male",
+    "Address": "947 University Ave",
+    "Email": "staff2290@example.com",
+    "Phone": "\u002B12281042233",
+    "BirthYear": "1956-06-16T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "e3520767-f905-4020-8e8d-0b8214098f2e",
+        "Faculty": 8,
+        "Name": "Constitutional Law",
+        "CFU": 5,
+        "Date": "2023-03-15T00:00:00",
+        "IsOnline": false,
+        "Participants": 78,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7b0cf735-e205-43f0-bab1-7397f590aa46",
+        "Faculty": 8,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1999-01-15T00:00:00",
+    "Salary": 81572.74,
+    "Id": "ce8d14db-0bf6-4c51-9de8-57111e8af207",
+    "FullName": "Michael Anderson",
+    "Gender": "Female",
+    "Address": "597 University Ave",
+    "Email": "staff3920@example.com",
+    "Phone": "\u002B18469876405",
+    "BirthYear": "1977-08-11T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "94388da6-18e5-427f-b9c4-c500e16e7a10",
+        "Faculty": 6,
+        "Name": "Business Strategy",
+        "CFU": 10,
+        "Date": "2020-04-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 34,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "8686068a-a09f-4abd-a1ba-9cf37c951597",
+        "Faculty": 6,
+        "Name": "Operating Systems",
+        "CFU": 2,
+        "Date": "2020-05-09T00:00:00",
+        "IsOnline": false,
+        "Participants": 80,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "5bef802b-a269-45bc-b7ed-936dea9edc2c",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2009-01-24T00:00:00",
+    "Salary": 86544.63,
+    "Id": "2ec9c0e4-15f5-40dc-9c37-15de6a008396",
+    "FullName": "Sarah Lewis",
+    "Gender": "Female",
+    "Address": "209 University Ave",
+    "Email": "staff3373@example.com",
+    "Phone": "\u002B17907964999",
+    "BirthYear": "1981-04-23T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "86661984-2c70-4c43-9529-7a15e31b918e",
+        "Faculty": 3,
+        "Name": "Data Structures",
+        "CFU": 5,
+        "Date": "2020-07-24T00:00:00",
+        "IsOnline": false,
+        "Participants": 27,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3ae36cbf-2bd6-4974-a0d4-c0923728b938",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2011-06-19T00:00:00",
+    "Salary": 97294.04,
+    "Id": "4b2925d0-fc99-48db-9957-669a2ff63d71",
+    "FullName": "David Harris",
+    "Gender": "Female",
+    "Address": "972 University Ave",
+    "Email": "staff8845@example.com",
+    "Phone": "\u002B17718767337",
+    "BirthYear": "1964-05-10T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b86ae59c-2ae7-4525-a566-8324af268511",
+        "Faculty": 4,
+        "Name": "Developmental Psychology",
+        "CFU": 12,
+        "Date": "2020-01-20T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "271b2d16-6f83-49f9-8e41-0033847e736b",
+        "Faculty": 4,
+        "Name": "Artificial Intelligence",
+        "CFU": 7,
+        "Date": "2022-10-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 95,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "271b2d16-6f83-49f9-8e41-0033847e736b",
+        "Faculty": 4,
+        "Name": "Artificial Intelligence",
+        "CFU": 7,
+        "Date": "2022-10-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 95,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "ec9d6359-85a1-4a93-bfec-e8d776ab9e2d",
+        "Faculty": 4,
+        "Name": "Business Statistics",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "39b61d8f-1b3a-4212-bf99-62143b563864",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "084d43fc-18a0-4861-a3ac-2c8616eddaa6",
+        "Faculty": 4,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1997-12-07T00:00:00",
+    "Salary": 82365.91,
+    "Id": "e81631cb-348e-4eae-922c-da12e095b4ec",
+    "FullName": "Sarah Johnson",
+    "Gender": "Female",
+    "Address": "918 University Ave",
+    "Email": "staff8332@example.com",
+    "Phone": "\u002B18863785633",
+    "BirthYear": "1967-01-02T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "38cce182-ad73-4570-977c-2153a812ad74",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "Date": "2022-04-19T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "ae3d41a5-8676-4f4c-8073-0026808d4e37",
+        "Faculty": 2,
+        "Name": "Pediatric Nursing",
+        "CFU": 5,
+        "Date": "2021-05-11T00:00:00",
+        "IsOnline": false,
+        "Participants": 18,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9e00b40e-74a4-446b-8554-1d524a6654a9",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "3d83d29c-737f-47a3-9e24-65dacb1cf734",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2004-08-01T00:00:00",
+    "Salary": 62297.82,
+    "Id": "39f784d1-1b9f-4f29-8f2c-8fc327a8a942",
+    "FullName": "David Brown",
+    "Gender": "Male",
+    "Address": "451 University Ave",
+    "Email": "staff2209@example.com",
+    "Phone": "\u002B15512933128",
+    "BirthYear": "1966-07-04T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "a4d74851-d9ef-4bc6-8adb-68f703ac4d28",
+        "Faculty": 7,
+        "Name": "Linguistics Analysis",
+        "CFU": 3,
+        "Date": "2022-09-14T00:00:00",
+        "IsOnline": true,
+        "Participants": 11,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "aa87f375-1ead-42db-ac97-d0b77a92cbde",
+        "Faculty": 7,
+        "Name": "Molecular Biology",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2003-09-19T00:00:00",
+    "Salary": 60678.35,
+    "Id": "98ccabdd-2de0-4e96-91cf-bc0809b8f0da",
+    "FullName": "Brian Harris",
+    "Gender": "Female",
+    "Address": "957 University Ave",
+    "Email": "staff5735@example.com",
+    "Phone": "\u002B17324271011",
+    "BirthYear": "1979-08-01T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "ab4af7e6-4221-4b19-a10a-06b063bc02ba",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2022-04-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 23,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "2be008a0-f450-4d4a-972e-7401af4f929e",
+        "Faculty": 3,
+        "Name": "Operating Systems",
+        "CFU": 7,
+        "Date": "2021-02-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 18,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "985f4cfe-7a23-44de-b4c6-60c7f55082f2",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 3,
+        "Date": "2020-12-25T00:00:00",
+        "IsOnline": false,
+        "Participants": 15,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "b7195b49-e280-42d1-9cf6-935990f39cb2",
+        "Faculty": 3,
+        "Name": "Linguistics Analysis",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "bf13c360-3ad8-4f9c-8a13-12343b24e195",
+        "Faculty": 3,
+        "Name": "Corporate Finance",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "3ae36cbf-2bd6-4974-a0d4-c0923728b938",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1996-05-12T00:00:00",
+    "Salary": 92145.07,
+    "Id": "160ac0e3-4c23-4d48-af65-a98b6bc22d5b",
+    "FullName": "James White",
+    "Gender": "Male",
+    "Address": "932 University Ave",
+    "Email": "staff4385@example.com",
+    "Phone": "\u002B13253440055",
+    "BirthYear": "1967-10-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b7ae7131-412b-45dc-8658-5c665c822667",
+        "Faculty": 6,
+        "Name": "Microbiology",
+        "CFU": 6,
+        "Date": "2022-11-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 85,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "8af7c4da-a1ac-4f88-a96d-40ec601ba1f0",
+        "Faculty": 6,
+        "Name": "Microbiology",
+        "CFU": 6,
+        "Date": "2023-10-22T00:00:00",
+        "IsOnline": true,
+        "Participants": 57,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "03e8b1aa-9c84-4aff-8564-1ee0fa4ae37c",
+        "Faculty": 6,
+        "Name": "Strategic Management",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "ab67995b-2ac4-475f-97b0-e198601f8eec",
+        "Faculty": 6,
+        "Name": "Developmental Psychology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1994-05-23T00:00:00",
+    "Salary": 75864.46,
+    "Id": "1d18947e-32fe-49f3-a2b2-2ee0f7ea698d",
+    "FullName": "Robert Lewis",
+    "Gender": "Male",
+    "Address": "834 University Ave",
+    "Email": "staff3061@example.com",
+    "Phone": "\u002B17252896683",
+    "BirthYear": "1978-01-23T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "f3df55cd-f383-445b-841e-9c61add8b71a",
+        "Faculty": 2,
+        "Name": "Translation Studies",
+        "CFU": 5,
+        "Date": "2021-05-03T00:00:00",
+        "IsOnline": false,
+        "Participants": 28,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3d83d29c-737f-47a3-9e24-65dacb1cf734",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2008-06-03T00:00:00",
+    "Salary": 96033.11,
+    "Id": "21d4b6ba-4966-4563-a29f-b46107fa5841",
+    "FullName": "Brian Brown",
+    "Gender": "Male",
+    "Address": "410 University Ave",
+    "Email": "staff4935@example.com",
+    "Phone": "\u002B18848449771",
+    "BirthYear": "1977-05-06T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "6e222149-e78d-4dfc-a446-44780e669469",
+        "Faculty": 9,
+        "Name": "Advanced Mathematics",
+        "CFU": 3,
+        "Date": "2023-12-09T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e9420a6b-4ace-4523-80c9-3a1da3ae16a3",
+        "Faculty": 9,
+        "Name": "Accounting",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2018-03-03T00:00:00",
+    "Salary": 76436.13,
+    "Id": "a1ec8ab4-3be8-4969-b4c3-f6743a92713d",
+    "FullName": "Alice Taylor",
+    "Gender": "Female",
+    "Address": "195 University Ave",
+    "Email": "staff4515@example.com",
+    "Phone": "\u002B17366995320",
+    "BirthYear": "1968-01-19T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "1a028b13-5383-4631-901b-0b27edb26de6",
+        "Faculty": 9,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "Date": "2020-01-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 98,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c2b6ffff-04d1-4394-8222-7d16684fe9f3",
+        "Faculty": 9,
+        "Name": "Physiology",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2007-07-18T00:00:00",
+    "Salary": 96306.94,
+    "Id": "7701045a-b57b-4611-9138-564cfae057cd",
+    "FullName": "James Clark",
+    "Gender": "Male",
+    "Address": "589 University Ave",
+    "Email": "staff2966@example.com",
+    "Phone": "\u002B13679419898",
+    "BirthYear": "1989-12-16T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "6e222149-e78d-4dfc-a446-44780e669469",
+        "Faculty": 9,
+        "Name": "Advanced Mathematics",
+        "CFU": 3,
+        "Date": "2023-12-09T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "1a028b13-5383-4631-901b-0b27edb26de6",
+        "Faculty": 9,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "Date": "2020-01-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 98,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "362ab570-7417-480e-b404-2923b97ba577",
+        "Faculty": 9,
+        "Name": "Business Statistics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "affa31a5-6d84-4ab5-a60a-68d50811ffc3",
+        "Faculty": 9,
+        "Name": "Developmental Psychology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "3553a544-9114-4e73-983f-f944684a6ee2",
+        "Faculty": 9,
+        "Name": "Nursing Ethics",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1999-07-18T00:00:00",
+    "Salary": 64934.62,
+    "Id": "c25b962a-6708-4bd5-a229-794b13643c80",
+    "FullName": "Emily Harris",
+    "Gender": "Male",
+    "Address": "491 University Ave",
+    "Email": "staff6384@example.com",
+    "Phone": "\u002B17236273999",
+    "BirthYear": "1966-02-23T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "51e6eb7d-acf7-4019-af1a-a701a31db0fc",
+        "Faculty": 8,
+        "Name": "Fashion Marketing",
+        "CFU": 3,
+        "Date": "2022-11-22T00:00:00",
+        "IsOnline": false,
+        "Participants": 92,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "2768b8e0-f906-457b-9410-8a3ef6181138",
+        "Faculty": 8,
+        "Name": "Civil Law",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2004-12-11T00:00:00",
+    "Salary": 68206.3,
+    "Id": "b8b53461-615d-482e-8bab-83eefc4775cb",
+    "FullName": "Robert Harris",
+    "Gender": "Female",
+    "Address": "649 University Ave",
+    "Email": "staff7436@example.com",
+    "Phone": "\u002B19414822242",
+    "BirthYear": "1956-12-28T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "a4d74851-d9ef-4bc6-8adb-68f703ac4d28",
+        "Faculty": 7,
+        "Name": "Linguistics Analysis",
+        "CFU": 3,
+        "Date": "2022-09-14T00:00:00",
+        "IsOnline": true,
+        "Participants": 11,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "fe7ce362-0030-40aa-98ce-ebfb74420807",
+        "Faculty": 7,
+        "Name": "Fashion Illustration",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1992-09-18T00:00:00",
+    "Salary": 86051.73,
+    "Id": "c9e1111a-3ac5-476c-b761-fa8283a97537",
+    "FullName": "Robert Walker",
+    "Gender": "Male",
+    "Address": "694 University Ave",
+    "Email": "staff4456@example.com",
+    "Phone": "\u002B12497883710",
+    "BirthYear": "1959-10-12T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "863c655a-ef57-49ce-a91f-4025ed6cd487",
+        "Faculty": 6,
+        "Name": "Advanced Mathematics",
+        "CFU": 2,
+        "Date": "2020-02-09T00:00:00",
+        "IsOnline": false,
+        "Participants": 57,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "5241bc9c-7c5b-4f9c-ab43-44ccabc68154",
+        "Faculty": 6,
+        "Name": "Business Statistics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1999-11-26T00:00:00",
+    "Salary": 75128.77,
+    "Id": "e3cffca6-c798-493f-a542-dd931d7f15bc",
+    "FullName": "Alice Clark",
+    "Gender": "Female",
+    "Address": "223 University Ave",
+    "Email": "staff2557@example.com",
+    "Phone": "\u002B14825779719",
+    "BirthYear": "1987-10-03T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "4e1695c6-f313-49e1-956c-c8dd70f81d40",
+        "Faculty": 2,
+        "Name": "Microbiology",
+        "CFU": 4,
+        "Date": "2021-03-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 24,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c4f58232-c440-4856-8744-fc03075ef2c1",
+        "Faculty": 2,
+        "Name": "Database Systems",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2019-12-13T00:00:00",
+    "Salary": 88286.29,
+    "Id": "22aef241-1caa-4d39-be7f-a3915d307cc8",
+    "FullName": "Alice Anderson",
+    "Gender": "Female",
+    "Address": "483 University Ave",
+    "Email": "staff1688@example.com",
+    "Phone": "\u002B19270710538",
+    "BirthYear": "1983-05-17T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "e4f8f49c-4ce5-4b9c-856a-699ccee8e6f0",
+        "Faculty": 2,
+        "Name": "Accounting",
+        "CFU": 8,
+        "Date": "2023-02-01T00:00:00",
+        "IsOnline": true,
+        "Participants": 28,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "2b6becdc-31cb-4c98-82cb-f34b391d0a98",
+        "Faculty": 2,
+        "Name": "Operating Systems",
+        "CFU": 5,
+        "Date": "2023-01-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 40,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3c74a19c-e0ad-4c86-9f34-511612e52b2e",
+        "Faculty": 2,
+        "Name": "Civil Law",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "3d83d29c-737f-47a3-9e24-65dacb1cf734",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1990-07-13T00:00:00",
+    "Salary": 74726.96,
+    "Id": "941def5b-bdb0-46cb-9eba-510caad4b3f6",
+    "FullName": "Alice Brown",
+    "Gender": "Male",
+    "Address": "206 University Ave",
+    "Email": "staff4087@example.com",
+    "Phone": "\u002B12629707341",
+    "BirthYear": "1953-10-07T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "9045b3a3-4615-4331-a1b0-4dab3994950f",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "Date": "2022-02-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 83,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "21332062-eb4a-4e1a-b96f-4e52b5a128a0",
+        "Faculty": 1,
+        "Name": "Microbiology",
+        "CFU": 7,
+        "Date": "2021-05-17T00:00:00",
+        "IsOnline": false,
+        "Participants": 89,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c6479445-b463-44d0-8027-7d9a195d0e44",
+        "Faculty": 1,
+        "Name": "Strategic Management",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "cee11b17-09f1-45ee-b75a-c8721c37c52b",
+        "Faculty": 1,
+        "Name": "Microeconomics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2008-12-04T00:00:00",
+    "Salary": 72985.66,
+    "Id": "22ac5c1e-2ee1-4874-b7cf-8fbfc93b4f9d",
+    "FullName": "Jessica Johnson",
+    "Gender": "Female",
+    "Address": "560 University Ave",
+    "Email": "staff9237@example.com",
+    "Phone": "\u002B13651583844",
+    "BirthYear": "1981-11-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "029fbe54-9dac-4b3b-b626-c333c52b4a58",
+        "Faculty": 6,
+        "Name": "Nursing Ethics",
+        "CFU": 11,
+        "Date": "2022-12-24T00:00:00",
+        "IsOnline": false,
+        "Participants": 26,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "5241bc9c-7c5b-4f9c-ab43-44ccabc68154",
+        "Faculty": 6,
+        "Name": "Business Statistics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2010-04-16T00:00:00",
+    "Salary": 79320.24,
+    "Id": "2ee207d5-a158-4113-884f-d23114d81755",
+    "FullName": "Linda Clark",
+    "Gender": "Male",
+    "Address": "442 University Ave",
+    "Email": "staff8823@example.com",
+    "Phone": "\u002B13448630574",
+    "BirthYear": "1976-09-05T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "00318f65-b889-4dad-bad6-7f8ac9a51f76",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 8,
+        "Date": "2021-11-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 67,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "137f2047-3811-40a1-b6a9-1fc9acf0a0e4",
+        "Faculty": 3,
+        "Name": "Clinical Psychology",
+        "CFU": 6,
+        "Date": "2023-10-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 76,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "d4f344b5-7993-4bf3-8b16-bb0e97d54c07",
+        "Faculty": 3,
+        "Name": "Constitutional Law",
+        "CFU": 2,
+        "Date": "2021-07-21T00:00:00",
+        "IsOnline": true,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "1e70ab3d-8c4e-49c7-8c78-c8e50968dfa8",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "7a3ac3fe-f7c4-4f66-af2d-f79fe879a400",
+        "Faculty": 3,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 7
+      },
+      {
+        "Id": "adddad0f-91ce-4f1d-a9fa-68651eed3fe3",
+        "Faculty": 3,
+        "Name": "Artificial Intelligence",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1995-04-20T00:00:00",
+    "Salary": 78604.5,
+    "Id": "ba7fec05-50ae-408f-8c30-25a2b03fabd9",
+    "FullName": "Jessica Harris",
+    "Gender": "Male",
+    "Address": "706 University Ave",
+    "Email": "staff1251@example.com",
+    "Phone": "\u002B19525582456",
+    "BirthYear": "1987-05-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b86ae59c-2ae7-4525-a566-8324af268511",
+        "Faculty": 4,
+        "Name": "Developmental Psychology",
+        "CFU": 12,
+        "Date": "2020-01-20T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "b145035a-1ae5-4170-8d68-7a58e7c81db4",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2007-10-16T00:00:00",
+    "Salary": 74018.26,
+    "Id": "1623fcf1-9bc5-47e8-88ca-0c3e9d8958d4",
+    "FullName": "Emily Johnson",
+    "Gender": "Male",
+    "Address": "459 University Ave",
+    "Email": "staff8016@example.com",
+    "Phone": "\u002B19573572304",
+    "BirthYear": "1951-10-24T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "73adfa35-87f8-4e91-97d0-cead964a1113",
+        "Faculty": 5,
+        "Name": "Business Strategy",
+        "CFU": 5,
+        "Date": "2022-05-10T00:00:00",
+        "IsOnline": true,
+        "Participants": 58,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "b49b06d9-ecb4-46ca-b368-475b813511ae",
+        "Faculty": 5,
+        "Name": "Constitutional Law",
+        "CFU": 2,
+        "Date": "2021-02-21T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "458374c2-aca9-42ec-a865-6ce98e27a3de",
+        "Faculty": 5,
+        "Name": "Molecular Biology",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "402ee203-3404-409d-a3af-d97f153b758c",
+        "Faculty": 5,
+        "Name": "Artificial Intelligence",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2014-07-18T00:00:00",
+    "Salary": 78260.06,
+    "Id": "1b1e3879-f0b1-483e-b65d-459d40a03fa4",
+    "FullName": "Alice Smith",
+    "Gender": "Female",
+    "Address": "958 University Ave",
+    "Email": "staff1788@example.com",
+    "Phone": "\u002B15194348328",
+    "BirthYear": "1975-09-23T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 5
+  },
+  {
+    "Exams": [
+      {
+        "Id": "4e1695c6-f313-49e1-956c-c8dd70f81d40",
+        "Faculty": 2,
+        "Name": "Microbiology",
+        "CFU": 4,
+        "Date": "2021-03-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 24,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "2b6becdc-31cb-4c98-82cb-f34b391d0a98",
+        "Faculty": 2,
+        "Name": "Operating Systems",
+        "CFU": 5,
+        "Date": "2023-01-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 40,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "1d26a1cd-5399-4ada-9fcd-19d86eb71518",
+        "Faculty": 2,
+        "Name": "Genetics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "e6e30688-fc6b-4f5d-95e5-543c42e40830",
+        "Faculty": 2,
+        "Name": "Molecular Biology",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2015-10-21T00:00:00",
+    "Salary": 78760.64,
+    "Id": "d400ecb7-670a-4f30-84aa-a8388fff61c8",
+    "FullName": "Jessica Clark",
+    "Gender": "Female",
+    "Address": "542 University Ave",
+    "Email": "staff4423@example.com",
+    "Phone": "\u002B12678360009",
+    "BirthYear": "1962-04-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "3d4476bf-b036-427f-b7e9-a73c4d917fee",
+        "Faculty": 2,
+        "Name": "Fashion Marketing",
+        "CFU": 10,
+        "Date": "2021-03-18T00:00:00",
+        "IsOnline": true,
+        "Participants": 73,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e0667dbc-cf68-4401-88d0-2f3a5ee0a1ac",
+        "Faculty": 2,
+        "Name": "Discrete Mathematics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2011-07-20T00:00:00",
+    "Salary": 94007.83,
+    "Id": "592abbae-7603-4a7a-8527-30721f2618de",
+    "FullName": "James Anderson",
+    "Gender": "Male",
+    "Address": "788 University Ave",
+    "Email": "staff3477@example.com",
+    "Phone": "\u002B18743473272",
+    "BirthYear": "1953-10-28T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "38e4bef7-8bb6-4bbe-b3d4-86ab6d3bf350",
+        "Faculty": 7,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2022-06-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "b5a24a05-d018-414c-906a-04c0f200be71",
+        "Faculty": 7,
+        "Name": "Nursing Ethics",
+        "CFU": 12,
+        "Date": "2022-08-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 31,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "95b48ff8-55a7-4ff6-9fdf-3faffaf34a9d",
+        "Faculty": 7,
+        "Name": "Fashion Illustration",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "132646b1-d2b2-4e7b-a3b8-79ef75d87816",
+        "Faculty": 7,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2004-01-23T00:00:00",
+    "Salary": 66305.51,
+    "Id": "88fa9ecb-1c4c-4a41-adc3-e0cd0829294c",
+    "FullName": "Michael Harris",
+    "Gender": "Male",
+    "Address": "541 University Ave",
+    "Email": "staff1615@example.com",
+    "Phone": "\u002B17146373830",
+    "BirthYear": "1983-09-07T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "e4f8f49c-4ce5-4b9c-856a-699ccee8e6f0",
+        "Faculty": 2,
+        "Name": "Accounting",
+        "CFU": 8,
+        "Date": "2023-02-01T00:00:00",
+        "IsOnline": true,
+        "Participants": 28,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "ae3d41a5-8676-4f4c-8073-0026808d4e37",
+        "Faculty": 2,
+        "Name": "Pediatric Nursing",
+        "CFU": 5,
+        "Date": "2021-05-11T00:00:00",
+        "IsOnline": false,
+        "Participants": 18,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "38cce182-ad73-4570-977c-2153a812ad74",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "Date": "2022-04-19T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3669ae1f-6ff9-4298-b6f7-c84197490b96",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "1d26a1cd-5399-4ada-9fcd-19d86eb71518",
+        "Faculty": 2,
+        "Name": "Genetics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "3669ae1f-6ff9-4298-b6f7-c84197490b96",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2018-11-24T00:00:00",
+    "Salary": 88678.21,
+    "Id": "20d1f424-9e65-4554-a5fd-db925ba32a01",
+    "FullName": "Brian White",
+    "Gender": "Male",
+    "Address": "624 University Ave",
+    "Email": "staff5301@example.com",
+    "Phone": "\u002B16563278652",
+    "BirthYear": "1987-02-21T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b49b06d9-ecb4-46ca-b368-475b813511ae",
+        "Faculty": 5,
+        "Name": "Constitutional Law",
+        "CFU": 2,
+        "Date": "2021-02-21T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "010052f0-1914-43e6-96cd-4c757f56d85f",
+        "Faculty": 5,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2021-12-21T00:00:00",
+        "IsOnline": false,
+        "Participants": 29,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "b49b06d9-ecb4-46ca-b368-475b813511ae",
+        "Faculty": 5,
+        "Name": "Constitutional Law",
+        "CFU": 2,
+        "Date": "2021-02-21T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "974f359b-b8c6-49ed-8a0a-91063b0ce61f",
+        "Faculty": 5,
+        "Name": "Corporate Finance",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "900f99d2-308f-492d-b417-e2f393266709",
+        "Faculty": 5,
+        "Name": "Nursing Ethics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "03973549-edcc-4ce6-afc4-99aa44790736",
+        "Faculty": 5,
+        "Name": "Molecular Biology",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2004-07-19T00:00:00",
+    "Salary": 74231.65,
+    "Id": "f3f9bb92-cef6-4468-94ca-1032924e79b5",
+    "FullName": "David White",
+    "Gender": "Male",
+    "Address": "378 University Ave",
+    "Email": "staff7780@example.com",
+    "Phone": "\u002B18005256708",
+    "BirthYear": "1951-12-06T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 5
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b5a24a05-d018-414c-906a-04c0f200be71",
+        "Faculty": 7,
+        "Name": "Nursing Ethics",
+        "CFU": 12,
+        "Date": "2022-08-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 31,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "d6e0ce9d-93bd-4c94-a8e7-129c90d89e0e",
+        "Faculty": 7,
+        "Name": "Microeconomics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 7
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2009-10-15T00:00:00",
+    "Salary": 73468.06,
+    "Id": "17cd8266-421e-4b1f-9bfb-ce4b2d485bfc",
+    "FullName": "Brian Clark",
+    "Gender": "Male",
+    "Address": "118 University Ave",
+    "Email": "staff5209@example.com",
+    "Phone": "\u002B17378980567",
+    "BirthYear": "1965-04-12T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "2a99f130-4edb-4025-893b-f70e42b2af1b",
+        "Faculty": 9,
+        "Name": "Translation Studies",
+        "CFU": 2,
+        "Date": "2022-04-12T00:00:00",
+        "IsOnline": false,
+        "Participants": 19,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "6e222149-e78d-4dfc-a446-44780e669469",
+        "Faculty": 9,
+        "Name": "Advanced Mathematics",
+        "CFU": 3,
+        "Date": "2023-12-09T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7bcec0ef-896f-4461-89fc-3296c33bcb5a",
+        "Faculty": 9,
+        "Name": "Introduction to Psychology",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "7bcec0ef-896f-4461-89fc-3296c33bcb5a",
+        "Faculty": 9,
+        "Name": "Introduction to Psychology",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1995-03-21T00:00:00",
+    "Salary": 73029.76,
+    "Id": "9a7fbe56-0953-4435-923d-fb6468f75658",
+    "FullName": "David White",
+    "Gender": "Male",
+    "Address": "574 University Ave",
+    "Email": "staff9592@example.com",
+    "Phone": "\u002B16756318812",
+    "BirthYear": "1972-11-08T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "aafc02e4-a5a6-430f-87d0-ab5e00512747",
+        "Faculty": 1,
+        "Name": "Nursing Ethics",
+        "CFU": 3,
+        "Date": "2023-06-13T00:00:00",
+        "IsOnline": true,
+        "Participants": 96,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "4a425b1e-66f6-4d4d-8f62-a72cde12341e",
+        "Faculty": 1,
+        "Name": "Artificial Intelligence",
+        "CFU": 6,
+        "Date": "2023-12-05T00:00:00",
+        "IsOnline": false,
+        "Participants": 76,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "21332062-eb4a-4e1a-b96f-4e52b5a128a0",
+        "Faculty": 1,
+        "Name": "Microbiology",
+        "CFU": 7,
+        "Date": "2021-05-17T00:00:00",
+        "IsOnline": false,
+        "Participants": 89,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "2acfe8ed-15c7-46b6-8fa7-775164e8a1eb",
+        "Faculty": 1,
+        "Name": "Corporate Finance",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "c127b25d-f76a-48d8-9845-e16f70dba297",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "b0c72a82-938d-4e65-be8b-31fcb1d5967f",
+        "Faculty": 1,
+        "Name": "Operating Systems",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2001-08-28T00:00:00",
+    "Salary": 91430.13,
+    "Id": "8a7b82e4-4041-4282-99fe-83bdb6ef2d76",
+    "FullName": "Linda Anderson",
+    "Gender": "Female",
+    "Address": "435 University Ave",
+    "Email": "staff6203@example.com",
+    "Phone": "\u002B14735643062",
+    "BirthYear": "1986-12-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "a4d12ed4-b969-49f9-a920-ce02082cb9d8",
+        "Faculty": 6,
+        "Name": "Cognitive Psychology",
+        "CFU": 6,
+        "Date": "2023-10-24T00:00:00",
+        "IsOnline": false,
+        "Participants": 39,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "4d1d5df5-3a7e-4c50-89e0-e637621e234c",
+        "Faculty": 6,
+        "Name": "Clinical Psychology",
+        "CFU": 8,
+        "Date": "2022-08-19T00:00:00",
+        "IsOnline": false,
+        "Participants": 57,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "8af7c4da-a1ac-4f88-a96d-40ec601ba1f0",
+        "Faculty": 6,
+        "Name": "Microbiology",
+        "CFU": 6,
+        "Date": "2023-10-22T00:00:00",
+        "IsOnline": true,
+        "Participants": 57,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "bec31946-4b90-4e32-934c-7e3985b875e9",
+        "Faculty": 6,
+        "Name": "Artificial Intelligence",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "5bef802b-a269-45bc-b7ed-936dea9edc2c",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2003-04-10T00:00:00",
+    "Salary": 62966.31,
+    "Id": "f05a50c2-0a15-463c-9f13-4cbd64669efe",
+    "FullName": "Robert Anderson",
+    "Gender": "Female",
+    "Address": "625 University Ave",
+    "Email": "staff2752@example.com",
+    "Phone": "\u002B19996261056",
+    "BirthYear": "1975-11-13T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "1a028b13-5383-4631-901b-0b27edb26de6",
+        "Faculty": 9,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "Date": "2020-01-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 98,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e263a82e-9132-4ded-b9e5-3a5718c85629",
+        "Faculty": 9,
+        "Name": "Artificial Intelligence",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1990-02-16T00:00:00",
+    "Salary": 75278.88,
+    "Id": "eb635f6c-e316-4cf8-8b1e-b306f41851d6",
+    "FullName": "Linda Taylor",
+    "Gender": "Female",
+    "Address": "260 University Ave",
+    "Email": "staff8016@example.com",
+    "Phone": "\u002B14281274281",
+    "BirthYear": "1976-03-01T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "7b9d66fc-f617-4087-9686-4c91c541988b",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 4,
+        "Date": "2023-08-08T00:00:00",
+        "IsOnline": true,
+        "Participants": 71,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "760a3663-dccf-4381-b5b7-99e89c66c0e9",
+        "Faculty": 8,
+        "Name": "Linguistics Analysis",
+        "CFU": 8,
+        "Date": "2023-10-15T00:00:00",
+        "IsOnline": false,
+        "Participants": 71,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "47c42cbc-66a2-4c29-8c3c-fed045171654",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2021-03-07T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e62451ce-56e2-4750-9323-9f57567a89d7",
+        "Faculty": 8,
+        "Name": "Linguistics Analysis",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "2541b2bf-f0aa-4384-b59d-0ddfcd52e126",
+        "Faculty": 8,
+        "Name": "Molecular Biology",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "7b0cf735-e205-43f0-bab1-7397f590aa46",
+        "Faculty": 8,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1993-09-07T00:00:00",
+    "Salary": 61194.75,
+    "Id": "8386031b-5252-43a6-8418-365c0c47ca2b",
+    "FullName": "Emily White",
+    "Gender": "Male",
+    "Address": "255 University Ave",
+    "Email": "staff6116@example.com",
+    "Phone": "\u002B13578521240",
+    "BirthYear": "1961-06-20T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "102568fb-270d-4c3a-8ab7-5418d6e0caec",
+        "Faculty": 8,
+        "Name": "Fashion Illustration",
+        "CFU": 5,
+        "Date": "2020-02-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 59,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "51e6eb7d-acf7-4019-af1a-a701a31db0fc",
+        "Faculty": 8,
+        "Name": "Fashion Marketing",
+        "CFU": 3,
+        "Date": "2022-11-22T00:00:00",
+        "IsOnline": false,
+        "Participants": 92,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "688d3f9f-2a5d-4200-9c1d-1a788d2f63b5",
+        "Faculty": 8,
+        "Name": "Nursing Ethics",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "2768b8e0-f906-457b-9410-8a3ef6181138",
+        "Faculty": 8,
+        "Name": "Civil Law",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2017-04-19T00:00:00",
+    "Salary": 72327.36,
+    "Id": "97429748-1af6-4797-8d95-2919875984a0",
+    "FullName": "Brian Brown",
+    "Gender": "Male",
+    "Address": "122 University Ave",
+    "Email": "staff8137@example.com",
+    "Phone": "\u002B17395762557",
+    "BirthYear": "1955-02-06T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "578eede0-0bc3-4466-9c34-6d3278baba12",
+        "Faculty": 8,
+        "Name": "Data Structures",
+        "CFU": 7,
+        "Date": "2021-12-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 17,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "7b9d66fc-f617-4087-9686-4c91c541988b",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 4,
+        "Date": "2023-08-08T00:00:00",
+        "IsOnline": true,
+        "Participants": 71,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "a0b26a97-9bb2-4313-b4f4-b700e0b4eb3a",
+        "Faculty": 8,
+        "Name": "Fashion Illustration",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "c454b58d-5c09-438b-8fba-1843808dda4e",
+        "Faculty": 8,
+        "Name": "Nursing Ethics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2005-08-12T00:00:00",
+    "Salary": 80443.57,
+    "Id": "8017e898-5d0e-4e30-92b6-45e58080a3ba",
+    "FullName": "Linda Johnson",
+    "Gender": "Male",
+    "Address": "970 University Ave",
+    "Email": "staff1369@example.com",
+    "Phone": "\u002B12356628192",
+    "BirthYear": "1979-03-18T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "63b97abc-8eec-4daa-be90-cfae9d9a6c71",
+        "Faculty": 7,
+        "Name": "Constitutional Law",
+        "CFU": 11,
+        "Date": "2022-02-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 19,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "132646b1-d2b2-4e7b-a3b8-79ef75d87816",
+        "Faculty": 7,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2017-09-16T00:00:00",
+    "Salary": 74739.55,
+    "Id": "93db93a7-7f16-4385-af47-8dbbd97156b3",
+    "FullName": "Michael White",
+    "Gender": "Female",
+    "Address": "313 University Ave",
+    "Email": "staff4509@example.com",
+    "Phone": "\u002B19075881243",
+    "BirthYear": "1962-02-03T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "137f2047-3811-40a1-b6a9-1fc9acf0a0e4",
+        "Faculty": 3,
+        "Name": "Clinical Psychology",
+        "CFU": 6,
+        "Date": "2023-10-27T00:00:00",
+        "IsOnline": false,
+        "Participants": 76,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "7560d08e-274d-4431-9878-81407e648348",
+        "Faculty": 3,
+        "Name": "Fashion Marketing",
+        "CFU": 5,
+        "Date": "2023-12-12T00:00:00",
+        "IsOnline": true,
+        "Participants": 52,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "91ed9d3d-749b-47e7-be38-0971b88dc34c",
+        "Faculty": 3,
+        "Name": "Data Structures",
+        "CFU": 12,
+        "Date": "2023-02-12T00:00:00",
+        "IsOnline": false,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7a3ac3fe-f7c4-4f66-af2d-f79fe879a400",
+        "Faculty": 3,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 7
+      },
+      {
+        "Id": "7a3ac3fe-f7c4-4f66-af2d-f79fe879a400",
+        "Faculty": 3,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 7
+      },
+      {
+        "Id": "7a3ac3fe-f7c4-4f66-af2d-f79fe879a400",
+        "Faculty": 3,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 7
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2002-07-21T00:00:00",
+    "Salary": 91124.68,
+    "Id": "55dee009-2e0d-445b-b1fb-d45203d063d9",
+    "FullName": "Emily Harris",
+    "Gender": "Male",
+    "Address": "132 University Ave",
+    "Email": "staff3476@example.com",
+    "Phone": "\u002B13942228587",
+    "BirthYear": "1985-12-15T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "94388da6-18e5-427f-b9c4-c500e16e7a10",
+        "Faculty": 6,
+        "Name": "Business Strategy",
+        "CFU": 10,
+        "Date": "2020-04-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 34,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "863c655a-ef57-49ce-a91f-4025ed6cd487",
+        "Faculty": 6,
+        "Name": "Advanced Mathematics",
+        "CFU": 2,
+        "Date": "2020-02-09T00:00:00",
+        "IsOnline": false,
+        "Participants": 57,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "029fbe54-9dac-4b3b-b626-c333c52b4a58",
+        "Faculty": 6,
+        "Name": "Nursing Ethics",
+        "CFU": 11,
+        "Date": "2022-12-24T00:00:00",
+        "IsOnline": false,
+        "Participants": 26,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "5bef802b-a269-45bc-b7ed-936dea9edc2c",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "5241bc9c-7c5b-4f9c-ab43-44ccabc68154",
+        "Faculty": 6,
+        "Name": "Business Statistics",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2012-08-23T00:00:00",
+    "Salary": 98542.04,
+    "Id": "11e369ff-4dc6-446a-b5af-d0432ec30f6d",
+    "FullName": "James Smith",
+    "Gender": "Female",
+    "Address": "180 University Ave",
+    "Email": "staff4103@example.com",
+    "Phone": "\u002B13145314832",
+    "BirthYear": "1982-02-18T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "91ed9d3d-749b-47e7-be38-0971b88dc34c",
+        "Faculty": 3,
+        "Name": "Data Structures",
+        "CFU": 12,
+        "Date": "2023-02-12T00:00:00",
+        "IsOnline": false,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "ab4af7e6-4221-4b19-a10a-06b063bc02ba",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2022-04-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 23,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "adddad0f-91ce-4f1d-a9fa-68651eed3fe3",
+        "Faculty": 3,
+        "Name": "Artificial Intelligence",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "3ae36cbf-2bd6-4974-a0d4-c0923728b938",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2013-07-17T00:00:00",
+    "Salary": 75218.09,
+    "Id": "1e6c03fc-c9de-4990-9589-3b0424654ca6",
+    "FullName": "Michael Walker",
+    "Gender": "Female",
+    "Address": "575 University Ave",
+    "Email": "staff1787@example.com",
+    "Phone": "\u002B15924794676",
+    "BirthYear": "1981-10-05T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "ab4af7e6-4221-4b19-a10a-06b063bc02ba",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2022-04-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 23,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "f3ccbde9-49ab-4d5e-9b73-51ada373ac51",
+        "Faculty": 3,
+        "Name": "Translation Studies",
+        "CFU": 7,
+        "Date": "2023-11-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 78,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "00318f65-b889-4dad-bad6-7f8ac9a51f76",
+        "Faculty": 3,
+        "Name": "Developmental Psychology",
+        "CFU": 8,
+        "Date": "2021-11-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 67,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "bf13c360-3ad8-4f9c-8a13-12343b24e195",
+        "Faculty": 3,
+        "Name": "Corporate Finance",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "17c10d39-3e2f-4fc3-a517-d253ab5ac65d",
+        "Faculty": 3,
+        "Name": "Business Statistics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "17c10d39-3e2f-4fc3-a517-d253ab5ac65d",
+        "Faculty": 3,
+        "Name": "Business Statistics",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2000-10-07T00:00:00",
+    "Salary": 87798.41,
+    "Id": "369af570-5254-4e67-929a-c74ccef25979",
+    "FullName": "James Clark",
+    "Gender": "Male",
+    "Address": "184 University Ave",
+    "Email": "staff8156@example.com",
+    "Phone": "\u002B12315663066",
+    "BirthYear": "1964-09-20T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "9629f817-e737-4650-9ae8-d1fdd0f3108b",
+        "Faculty": 6,
+        "Name": "Cognitive Psychology",
+        "CFU": 10,
+        "Date": "2020-06-19T00:00:00",
+        "IsOnline": false,
+        "Participants": 45,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "c62683ff-c054-4e9f-bd02-82a2d9a64128",
+        "Faculty": 6,
+        "Name": "Fashion Marketing",
+        "CFU": 12,
+        "Date": "2021-12-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 87,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "7ad56b66-6a94-46f8-9eac-1df64af10e26",
+        "Faculty": 6,
+        "Name": "Data Structures",
+        "CFU": 6,
+        "Date": "2022-02-19T00:00:00",
+        "IsOnline": true,
+        "Participants": 79,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "03e8b1aa-9c84-4aff-8564-1ee0fa4ae37c",
+        "Faculty": 6,
+        "Name": "Strategic Management",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "ab67995b-2ac4-475f-97b0-e198601f8eec",
+        "Faculty": 6,
+        "Name": "Developmental Psychology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "38a09706-d024-41a9-9f5c-c18a99e8df7d",
+        "Faculty": 6,
+        "Name": "Nursing Ethics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 7
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2016-11-20T00:00:00",
+    "Salary": 66222.3,
+    "Id": "7f4f35dd-ac7e-4590-a32a-761ee7680beb",
+    "FullName": "Alice Clark",
+    "Gender": "Male",
+    "Address": "699 University Ave",
+    "Email": "staff9894@example.com",
+    "Phone": "\u002B19958541547",
+    "BirthYear": "1952-03-17T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "1a028b13-5383-4631-901b-0b27edb26de6",
+        "Faculty": 9,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "Date": "2020-01-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 98,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e263a82e-9132-4ded-b9e5-3a5718c85629",
+        "Faculty": 9,
+        "Name": "Artificial Intelligence",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1992-10-08T00:00:00",
+    "Salary": 89915.96,
+    "Id": "84770265-dce2-4fb5-80ad-a1af3809d62f",
+    "FullName": "Sarah Clark",
+    "Gender": "Male",
+    "Address": "486 University Ave",
+    "Email": "staff4844@example.com",
+    "Phone": "\u002B16110263385",
+    "BirthYear": "1990-02-04T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "8f5b42cd-8192-4bc7-a8d5-447159b59355",
+        "Faculty": 1,
+        "Name": "Business Strategy",
+        "CFU": 8,
+        "Date": "2020-08-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 72,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c127b25d-f76a-48d8-9845-e16f70dba297",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2003-05-26T00:00:00",
+    "Salary": 77715.75,
+    "Id": "d9ea5198-1080-4e53-808b-a097e25f44f3",
+    "FullName": "Robert White",
+    "Gender": "Male",
+    "Address": "298 University Ave",
+    "Email": "staff5985@example.com",
+    "Phone": "\u002B13856900723",
+    "BirthYear": "1961-05-07T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "9045b3a3-4615-4331-a1b0-4dab3994950f",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "Date": "2022-02-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 83,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "74d8924b-4717-4ad5-bac7-9fdea4647872",
+        "Faculty": 1,
+        "Name": "Nursing Ethics",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2008-05-27T00:00:00",
+    "Salary": 91315.25,
+    "Id": "ac2a49c3-afa0-4e37-a364-06f598a347e9",
+    "FullName": "David White",
+    "Gender": "Male",
+    "Address": "743 University Ave",
+    "Email": "staff5644@example.com",
+    "Phone": "\u002B12392575903",
+    "BirthYear": "1961-08-15T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "721b1d7e-1c20-4052-b147-1c965c46f77a",
+        "Faculty": 8,
+        "Name": "Translation Studies",
+        "CFU": 5,
+        "Date": "2022-01-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 48,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "47c42cbc-66a2-4c29-8c3c-fed045171654",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2021-03-07T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "a0b26a97-9bb2-4313-b4f4-b700e0b4eb3a",
+        "Faculty": 8,
+        "Name": "Fashion Illustration",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "7eb20d54-0fab-4a5d-896f-7ebef352df28",
+        "Faculty": 8,
+        "Name": "Strategic Management",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2012-07-15T00:00:00",
+    "Salary": 65900.64,
+    "Id": "cebc2a91-83e6-4dae-b7a2-27cc7695212a",
+    "FullName": "Jessica White",
+    "Gender": "Male",
+    "Address": "849 University Ave",
+    "Email": "staff4146@example.com",
+    "Phone": "\u002B13599294843",
+    "BirthYear": "1971-03-14T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "362ab570-7417-480e-b404-2923b97ba577",
+        "Faculty": 9,
+        "Name": "Business Statistics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "8cb09940-9885-4fa4-8779-1be69a2b2550",
+        "Faculty": 9,
+        "Name": "Cognitive Psychology",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2003-03-20T00:00:00",
+    "Salary": 92922.16,
+    "Id": "3e22aa2e-512e-4ca7-ae5f-69277900ed3a",
+    "FullName": "David Clark",
+    "Gender": "Male",
+    "Address": "715 University Ave",
+    "Email": "staff9974@example.com",
+    "Phone": "\u002B12625016915",
+    "BirthYear": "1967-09-02T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "38e4bef7-8bb6-4bbe-b3d4-86ab6d3bf350",
+        "Faculty": 7,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2022-06-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "e5de6dc3-3ba8-46bf-9661-22f570a11c0f",
+        "Faculty": 7,
+        "Name": "Nursing Ethics",
+        "CFU": 5,
+        "Date": "2021-04-08T00:00:00",
+        "IsOnline": true,
+        "Participants": 100,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "fe7ce362-0030-40aa-98ce-ebfb74420807",
+        "Faculty": 7,
+        "Name": "Fashion Illustration",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "95b48ff8-55a7-4ff6-9fdf-3faffaf34a9d",
+        "Faculty": 7,
+        "Name": "Fashion Illustration",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1992-04-19T00:00:00",
+    "Salary": 89286.66,
+    "Id": "681c0073-e249-428b-ab27-afb1b08c120c",
+    "FullName": "Linda Harris",
+    "Gender": "Male",
+    "Address": "464 University Ave",
+    "Email": "staff2586@example.com",
+    "Phone": "\u002B16853310281",
+    "BirthYear": "1956-09-06T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "51e6eb7d-acf7-4019-af1a-a701a31db0fc",
+        "Faculty": 8,
+        "Name": "Fashion Marketing",
+        "CFU": 3,
+        "Date": "2022-11-22T00:00:00",
+        "IsOnline": false,
+        "Participants": 92,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7eb20d54-0fab-4a5d-896f-7ebef352df28",
+        "Faculty": 8,
+        "Name": "Strategic Management",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2011-03-22T00:00:00",
+    "Salary": 62483.65,
+    "Id": "b55cdde4-9413-463a-99b1-4cd02dd8aab6",
+    "FullName": "Sarah Johnson",
+    "Gender": "Female",
+    "Address": "754 University Ave",
+    "Email": "staff4986@example.com",
+    "Phone": "\u002B17679903880",
+    "BirthYear": "1984-03-17T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "38e4bef7-8bb6-4bbe-b3d4-86ab6d3bf350",
+        "Faculty": 7,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2022-06-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "38e4bef7-8bb6-4bbe-b3d4-86ab6d3bf350",
+        "Faculty": 7,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2022-06-20T00:00:00",
+        "IsOnline": false,
+        "Participants": 62,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "a4d74851-d9ef-4bc6-8adb-68f703ac4d28",
+        "Faculty": 7,
+        "Name": "Linguistics Analysis",
+        "CFU": 3,
+        "Date": "2022-09-14T00:00:00",
+        "IsOnline": true,
+        "Participants": 11,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "132646b1-d2b2-4e7b-a3b8-79ef75d87816",
+        "Faculty": 7,
+        "Name": "Civil Law",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "0c43856f-99b1-4243-88a2-bd370598b5e3",
+        "Faculty": 7,
+        "Name": "Introduction to Psychology",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 3
+      },
+      {
+        "Id": "fe7ce362-0030-40aa-98ce-ebfb74420807",
+        "Faculty": 7,
+        "Name": "Fashion Illustration",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2010-10-07T00:00:00",
+    "Salary": 88848.53,
+    "Id": "1af0614c-c6ea-426d-8f07-0041e428d193",
+    "FullName": "Michael White",
+    "Gender": "Male",
+    "Address": "275 University Ave",
+    "Email": "staff8373@example.com",
+    "Phone": "\u002B17554330813",
+    "BirthYear": "1954-04-08T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 7
+  },
+  {
+    "Exams": [
+      {
+        "Id": "9045b3a3-4615-4331-a1b0-4dab3994950f",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "Date": "2022-02-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 83,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c121128e-a308-4a48-a650-f617777111e7",
+        "Faculty": 1,
+        "Name": "Physiology",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1992-11-22T00:00:00",
+    "Salary": 98566.27,
+    "Id": "0aa3a699-1b75-4eac-9e99-9d25c8e81f04",
+    "FullName": "Linda Taylor",
+    "Gender": "Female",
+    "Address": "787 University Ave",
+    "Email": "staff8045@example.com",
+    "Phone": "\u002B18502720679",
+    "BirthYear": "1960-08-18T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "dc4a4b63-8813-4b57-a162-aff2b7c4bbd9",
+        "Faculty": 4,
+        "Name": "Pediatric Nursing",
+        "CFU": 6,
+        "Date": "2020-02-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 32,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9b4a7182-7a26-46b2-bd5f-25257fd35d03",
+        "Faculty": 4,
+        "Name": "Discrete Mathematics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1995-10-19T00:00:00",
+    "Salary": 60463.59,
+    "Id": "a8e153d6-c65a-40f8-bf2f-ebb99ce01955",
+    "FullName": "Sarah Smith",
+    "Gender": "Male",
+    "Address": "879 University Ave",
+    "Email": "staff6551@example.com",
+    "Phone": "\u002B13287262625",
+    "BirthYear": "1967-11-02T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "8f5b42cd-8192-4bc7-a8d5-447159b59355",
+        "Faculty": 1,
+        "Name": "Business Strategy",
+        "CFU": 8,
+        "Date": "2020-08-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 72,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "2acfe8ed-15c7-46b6-8fa7-775164e8a1eb",
+        "Faculty": 1,
+        "Name": "Corporate Finance",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2011-05-23T00:00:00",
+    "Salary": 79743.02,
+    "Id": "fa5f23d0-11dd-405b-8240-2d20bc855c19",
+    "FullName": "Sarah Harris",
+    "Gender": "Female",
+    "Address": "646 University Ave",
+    "Email": "staff9622@example.com",
+    "Phone": "\u002B16201756764",
+    "BirthYear": "1955-08-11T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "8be6899c-bff9-484c-9b8f-db1abe2cd04b",
+        "Faculty": 4,
+        "Name": "Translation Studies",
+        "CFU": 6,
+        "Date": "2023-04-28T00:00:00",
+        "IsOnline": false,
+        "Participants": 32,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "4775a8f7-fc9b-47ee-a297-c31b25fc9270",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 7,
+        "Date": "2020-08-22T00:00:00",
+        "IsOnline": true,
+        "Participants": 22,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "cb889335-ef55-4a33-a7e6-908c295eb414",
+        "Faculty": 4,
+        "Name": "Advanced Mathematics",
+        "CFU": 7,
+        "Date": "2023-12-17T00:00:00",
+        "IsOnline": true,
+        "Participants": 80,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "1184eb60-8627-4e44-bb0d-e3ca6bcf94a5",
+        "Faculty": 4,
+        "Name": "Database Systems",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "39b61d8f-1b3a-4212-bf99-62143b563864",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "9b4a7182-7a26-46b2-bd5f-25257fd35d03",
+        "Faculty": 4,
+        "Name": "Discrete Mathematics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2010-09-27T00:00:00",
+    "Salary": 97391.69,
+    "Id": "5874e7dc-688a-4b49-b4a2-f390647b138a",
+    "FullName": "Linda Johnson",
+    "Gender": "Male",
+    "Address": "553 University Ave",
+    "Email": "staff3035@example.com",
+    "Phone": "\u002B13948126176",
+    "BirthYear": "1968-09-04T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "1a028b13-5383-4631-901b-0b27edb26de6",
+        "Faculty": 9,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "Date": "2020-01-16T00:00:00",
+        "IsOnline": true,
+        "Participants": 98,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "8cb09940-9885-4fa4-8779-1be69a2b2550",
+        "Faculty": 9,
+        "Name": "Cognitive Psychology",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2012-05-04T00:00:00",
+    "Salary": 67860.61,
+    "Id": "cb9444e4-de81-4c6e-8530-c7e7c153d2d6",
+    "FullName": "David Smith",
+    "Gender": "Female",
+    "Address": "506 University Ave",
+    "Email": "staff8781@example.com",
+    "Phone": "\u002B17988319845",
+    "BirthYear": "1971-03-03T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "ae3d41a5-8676-4f4c-8073-0026808d4e37",
+        "Faculty": 2,
+        "Name": "Pediatric Nursing",
+        "CFU": 5,
+        "Date": "2021-05-11T00:00:00",
+        "IsOnline": false,
+        "Participants": 18,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "f7263dfc-85ce-4d01-94e1-e51354e6bc6f",
+        "Faculty": 2,
+        "Name": "Constitutional Law",
+        "CFU": 10,
+        "Date": "2022-03-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 61,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "f7263dfc-85ce-4d01-94e1-e51354e6bc6f",
+        "Faculty": 2,
+        "Name": "Constitutional Law",
+        "CFU": 10,
+        "Date": "2022-03-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 61,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e0667dbc-cf68-4401-88d0-2f3a5ee0a1ac",
+        "Faculty": 2,
+        "Name": "Discrete Mathematics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "3d83d29c-737f-47a3-9e24-65dacb1cf734",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      },
+      {
+        "Id": "3669ae1f-6ff9-4298-b6f7-c84197490b96",
+        "Faculty": 2,
+        "Name": "Developmental Psychology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2015-09-02T00:00:00",
+    "Salary": 98703.83,
+    "Id": "daf83c77-06f7-4f9c-a70c-ffffe0b50958",
+    "FullName": "Sarah Walker",
+    "Gender": "Male",
+    "Address": "761 University Ave",
+    "Email": "staff6737@example.com",
+    "Phone": "\u002B12969716636",
+    "BirthYear": "1974-02-05T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "010052f0-1914-43e6-96cd-4c757f56d85f",
+        "Faculty": 5,
+        "Name": "Cognitive Psychology",
+        "CFU": 5,
+        "Date": "2021-12-21T00:00:00",
+        "IsOnline": false,
+        "Participants": 29,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e50180d7-401e-40b6-884f-182fe805bd94",
+        "Faculty": 5,
+        "Name": "Fashion Illustration",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1993-05-20T00:00:00",
+    "Salary": 99942.4,
+    "Id": "424db87d-8725-4af1-bb57-7ea15af9fda2",
+    "FullName": "Linda Anderson",
+    "Gender": "Male",
+    "Address": "289 University Ave",
+    "Email": "staff9963@example.com",
+    "Phone": "\u002B17036767245",
+    "BirthYear": "1963-04-09T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 5
+  },
+  {
+    "Exams": [
+      {
+        "Id": "ae3d41a5-8676-4f4c-8073-0026808d4e37",
+        "Faculty": 2,
+        "Name": "Pediatric Nursing",
+        "CFU": 5,
+        "Date": "2021-05-11T00:00:00",
+        "IsOnline": false,
+        "Participants": 18,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "f7263dfc-85ce-4d01-94e1-e51354e6bc6f",
+        "Faculty": 2,
+        "Name": "Constitutional Law",
+        "CFU": 10,
+        "Date": "2022-03-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 61,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e6e30688-fc6b-4f5d-95e5-543c42e40830",
+        "Faculty": 2,
+        "Name": "Molecular Biology",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "c4f58232-c440-4856-8744-fc03075ef2c1",
+        "Faculty": 2,
+        "Name": "Database Systems",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2010-10-09T00:00:00",
+    "Salary": 82137.61,
+    "Id": "607a5226-854b-491e-9402-d2fd9a8aaaf9",
+    "FullName": "Michael Lewis",
+    "Gender": "Male",
+    "Address": "483 University Ave",
+    "Email": "staff3038@example.com",
+    "Phone": "\u002B17013181354",
+    "BirthYear": "1950-11-22T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e9420a6b-4ace-4523-80c9-3a1da3ae16a3",
+        "Faculty": 9,
+        "Name": "Accounting",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 1
+      },
+      {
+        "Id": "affa31a5-6d84-4ab5-a60a-68d50811ffc3",
+        "Faculty": 9,
+        "Name": "Developmental Psychology",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2020-01-11T00:00:00",
+    "Salary": 87155.07,
+    "Id": "16392fbd-d6a2-495f-b86b-88db5e54d3b8",
+    "FullName": "Emily Clark",
+    "Gender": "Female",
+    "Address": "923 University Ave",
+    "Email": "staff3792@example.com",
+    "Phone": "\u002B14328219847",
+    "BirthYear": "1977-08-17T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e9420a6b-4ace-4523-80c9-3a1da3ae16a3",
+        "Faculty": 9,
+        "Name": "Accounting",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2012-02-08T00:00:00",
+    "Salary": 64770.29,
+    "Id": "2debed2a-abed-48e0-8824-88cf17cbd138",
+    "FullName": "Michael Johnson",
+    "Gender": "Female",
+    "Address": "706 University Ave",
+    "Email": "staff3096@example.com",
+    "Phone": "\u002B15090471080",
+    "BirthYear": "1974-04-18T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "aafc02e4-a5a6-430f-87d0-ab5e00512747",
+        "Faculty": 1,
+        "Name": "Nursing Ethics",
+        "CFU": 3,
+        "Date": "2023-06-13T00:00:00",
+        "IsOnline": true,
+        "Participants": 96,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "b8989926-d087-451a-a329-d37cca8b7b8f",
+        "Faculty": 1,
+        "Name": "Corporate Finance",
+        "CFU": 9,
+        "Date": "2021-12-04T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "74ba11a4-0842-443b-a366-ff38be228316",
+        "Faculty": 1,
+        "Name": "Physiology",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "b0c72a82-938d-4e65-be8b-31fcb1d5967f",
+        "Faculty": 1,
+        "Name": "Operating Systems",
+        "CFU": 8,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2006-09-12T00:00:00",
+    "Salary": 66820.62,
+    "Id": "75fb3f78-da41-49e7-9074-dd8f24e8a7d4",
+    "FullName": "Sarah White",
+    "Gender": "Male",
+    "Address": "502 University Ave",
+    "Email": "staff9673@example.com",
+    "Phone": "\u002B17893632345",
+    "BirthYear": "1982-07-19T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "2a99f130-4edb-4025-893b-f70e42b2af1b",
+        "Faculty": 9,
+        "Name": "Translation Studies",
+        "CFU": 2,
+        "Date": "2022-04-12T00:00:00",
+        "IsOnline": false,
+        "Participants": 19,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e263a82e-9132-4ded-b9e5-3a5718c85629",
+        "Faculty": 9,
+        "Name": "Artificial Intelligence",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2010-04-13T00:00:00",
+    "Salary": 64518.07,
+    "Id": "dc126b49-f22b-4a0f-857b-2cce397ffa7f",
+    "FullName": "Sarah Anderson",
+    "Gender": "Female",
+    "Address": "223 University Ave",
+    "Email": "staff4992@example.com",
+    "Phone": "\u002B19211714186",
+    "BirthYear": "1988-02-01T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "485630fb-c5a5-4e8d-b4c2-7263a73f9ca8",
+        "Faculty": 9,
+        "Name": "Data Structures",
+        "CFU": 8,
+        "Date": "2023-12-01T00:00:00",
+        "IsOnline": false,
+        "Participants": 25,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7bcec0ef-896f-4461-89fc-3296c33bcb5a",
+        "Faculty": 9,
+        "Name": "Introduction to Psychology",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2009-04-26T00:00:00",
+    "Salary": 62015.92,
+    "Id": "58b3fdd3-18e7-4558-ad01-555810ce6aef",
+    "FullName": "Robert White",
+    "Gender": "Male",
+    "Address": "858 University Ave",
+    "Email": "staff3504@example.com",
+    "Phone": "\u002B15769307354",
+    "BirthYear": "1988-12-11T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 9
+  },
+  {
+    "Exams": [
+      {
+        "Id": "d5388e64-e097-43ed-8e84-b37384aadbc7",
+        "Faculty": 6,
+        "Name": "Microbiology",
+        "CFU": 10,
+        "Date": "2022-02-19T00:00:00",
+        "IsOnline": false,
+        "Participants": 96,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "38a09706-d024-41a9-9f5c-c18a99e8df7d",
+        "Faculty": 6,
+        "Name": "Nursing Ethics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 7
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2012-02-24T00:00:00",
+    "Salary": 80323.19,
+    "Id": "b68994f7-6707-4565-b4d0-6012c2edc76c",
+    "FullName": "Linda Harris",
+    "Gender": "Female",
+    "Address": "458 University Ave",
+    "Email": "staff2310@example.com",
+    "Phone": "\u002B12276312448",
+    "BirthYear": "1973-02-13T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "b86ae59c-2ae7-4525-a566-8324af268511",
+        "Faculty": 4,
+        "Name": "Developmental Psychology",
+        "CFU": 12,
+        "Date": "2020-01-20T00:00:00",
+        "IsOnline": true,
+        "Participants": 81,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "e7e585cc-5f36-401f-8e8f-3e63142db475",
+        "Faculty": 4,
+        "Name": "Business Strategy",
+        "CFU": 6,
+        "Date": "2020-02-27T00:00:00",
+        "IsOnline": true,
+        "Participants": 54,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "b145035a-1ae5-4170-8d68-7a58e7c81db4",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "1184eb60-8627-4e44-bb0d-e3ca6bcf94a5",
+        "Faculty": 4,
+        "Name": "Database Systems",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2006-07-13T00:00:00",
+    "Salary": 85713.98,
+    "Id": "3e94008e-6df9-4b4a-b283-db86c89290ee",
+    "FullName": "Sarah White",
+    "Gender": "Female",
+    "Address": "826 University Ave",
+    "Email": "staff4228@example.com",
+    "Phone": "\u002B19710889875",
+    "BirthYear": "1988-07-20T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "cecb82a7-5c91-4dd6-b53a-207412dfdc16",
+        "Faculty": 8,
+        "Name": "Artificial Intelligence",
+        "CFU": 10,
+        "Date": "2023-08-09T00:00:00",
+        "IsOnline": true,
+        "Participants": 82,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "47c42cbc-66a2-4c29-8c3c-fed045171654",
+        "Faculty": 8,
+        "Name": "Developmental Psychology",
+        "CFU": 7,
+        "Date": "2021-03-07T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "760a3663-dccf-4381-b5b7-99e89c66c0e9",
+        "Faculty": 8,
+        "Name": "Linguistics Analysis",
+        "CFU": 8,
+        "Date": "2023-10-15T00:00:00",
+        "IsOnline": false,
+        "Participants": 71,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "7b0cf735-e205-43f0-bab1-7397f590aa46",
+        "Faculty": 8,
+        "Name": "Molecular Biology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "fc80b919-fe62-41b2-a259-737013421a4c",
+        "Faculty": 8,
+        "Name": "Genetics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 2
+      },
+      {
+        "Id": "fc80b919-fe62-41b2-a259-737013421a4c",
+        "Faculty": 8,
+        "Name": "Genetics",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2016-12-23T00:00:00",
+    "Salary": 91837.49,
+    "Id": "a2615a85-63f1-4bde-b70c-4655598026b9",
+    "FullName": "James Walker",
+    "Gender": "Male",
+    "Address": "568 University Ave",
+    "Email": "staff5198@example.com",
+    "Phone": "\u002B12847004781",
+    "BirthYear": "1989-04-24T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "092a915d-284e-42e6-ab2b-2349aed866c8",
+        "Faculty": 5,
+        "Name": "Fashion Marketing",
+        "CFU": 12,
+        "Date": "2022-08-10T00:00:00",
+        "IsOnline": false,
+        "Participants": 41,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "73adfa35-87f8-4e91-97d0-cead964a1113",
+        "Faculty": 5,
+        "Name": "Business Strategy",
+        "CFU": 5,
+        "Date": "2022-05-10T00:00:00",
+        "IsOnline": true,
+        "Participants": 58,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "6ffa2a02-bcc4-4017-802e-7a3e9bc8a2d2",
+        "Faculty": 5,
+        "Name": "Nursing Ethics",
+        "CFU": 7,
+        "Date": "2021-11-22T00:00:00",
+        "IsOnline": true,
+        "Participants": 84,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "e6a449ea-1ec3-4dd3-804c-14098053658c",
+        "Faculty": 5,
+        "Name": "Physiology",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 7
+      },
+      {
+        "Id": "900f99d2-308f-492d-b417-e2f393266709",
+        "Faculty": 5,
+        "Name": "Nursing Ethics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "900f99d2-308f-492d-b417-e2f393266709",
+        "Faculty": 5,
+        "Name": "Nursing Ethics",
+        "CFU": 11,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1990-06-19T00:00:00",
+    "Salary": 73235.82,
+    "Id": "04569e75-82be-4bce-9bbe-29fe52efb2d0",
+    "FullName": "Emily Anderson",
+    "Gender": "Male",
+    "Address": "627 University Ave",
+    "Email": "staff2214@example.com",
+    "Phone": "\u002B18469273405",
+    "BirthYear": "1956-01-22T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 5
+  },
+  {
+    "Exams": [
+      {
+        "Id": "5ca24f32-f53e-4fc9-aa8b-1ee9e18c2cae",
+        "Faculty": 6,
+        "Name": "Business Strategy",
+        "CFU": 3,
+        "Date": "2022-07-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 57,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "bec31946-4b90-4e32-934c-7e3985b875e9",
+        "Faculty": 6,
+        "Name": "Artificial Intelligence",
+        "CFU": 12,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2019-08-10T00:00:00",
+    "Salary": 92711.56,
+    "Id": "36c05781-bd51-45c5-a5c2-5ec283c84edd",
+    "FullName": "Linda Johnson",
+    "Gender": "Male",
+    "Address": "886 University Ave",
+    "Email": "staff6899@example.com",
+    "Phone": "\u002B13984849897",
+    "BirthYear": "1985-05-18T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "44fec0c2-87b3-4e45-90fc-ae6c52e01891",
+        "Faculty": 3,
+        "Name": "Artificial Intelligence",
+        "CFU": 12,
+        "Date": "2023-02-22T00:00:00",
+        "IsOnline": false,
+        "Participants": 13,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "86661984-2c70-4c43-9529-7a15e31b918e",
+        "Faculty": 3,
+        "Name": "Data Structures",
+        "CFU": 5,
+        "Date": "2020-07-24T00:00:00",
+        "IsOnline": false,
+        "Participants": 27,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "3cabc05d-8a9a-4f17-bc42-6c89a3e2ab5a",
+        "Faculty": 3,
+        "Name": "Operating Systems",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 5
+      },
+      {
+        "Id": "3ae36cbf-2bd6-4974-a0d4-c0923728b938",
+        "Faculty": 3,
+        "Name": "Microeconomics",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 3
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2003-05-02T00:00:00",
+    "Salary": 67569.43,
+    "Id": "f78f5e54-bc79-4834-bed0-f4842c42eed2",
+    "FullName": "Sarah Brown",
+    "Gender": "Female",
+    "Address": "760 University Ave",
+    "Email": "staff9704@example.com",
+    "Phone": "\u002B17889751654",
+    "BirthYear": "1983-11-11T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 3
+  },
+  {
+    "Exams": [
+      {
+        "Id": "4a425b1e-66f6-4d4d-8f62-a72cde12341e",
+        "Faculty": 1,
+        "Name": "Artificial Intelligence",
+        "CFU": 6,
+        "Date": "2023-12-05T00:00:00",
+        "IsOnline": false,
+        "Participants": 76,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "2acfe8ed-15c7-46b6-8fa7-775164e8a1eb",
+        "Faculty": 1,
+        "Name": "Corporate Finance",
+        "CFU": 6,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1990-03-14T00:00:00",
+    "Salary": 93780.24,
+    "Id": "492e93fd-9dc7-45b6-adec-727c06b81192",
+    "FullName": "James Lewis",
+    "Gender": "Female",
+    "Address": "361 University Ave",
+    "Email": "staff6095@example.com",
+    "Phone": "\u002B16536293429",
+    "BirthYear": "1967-05-25T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 1
+  },
+  {
+    "Exams": [],
+    "Courses": [
+      {
+        "Id": "4a52477d-8605-44dc-8151-801054ab7e99",
+        "Faculty": 5,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 5
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2015-07-08T00:00:00",
+    "Salary": 81850.74,
+    "Id": "e8ed5159-5211-417e-a144-f06c80e98a73",
+    "FullName": "Jessica White",
+    "Gender": "Male",
+    "Address": "126 University Ave",
+    "Email": "staff3067@example.com",
+    "Phone": "\u002B13344185135",
+    "BirthYear": "1977-01-23T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 5
+  },
+  {
+    "Exams": [
+      {
+        "Id": "21332062-eb4a-4e1a-b96f-4e52b5a128a0",
+        "Faculty": 1,
+        "Name": "Microbiology",
+        "CFU": 7,
+        "Date": "2021-05-17T00:00:00",
+        "IsOnline": false,
+        "Participants": 89,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c55cf94c-0077-4630-aec9-753acca543b6",
+        "Faculty": 1,
+        "Name": "Cognitive Psychology",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2020-12-27T00:00:00",
+    "Salary": 89269.35,
+    "Id": "69cdb263-6c82-4e43-9b0a-3077e5349928",
+    "FullName": "Robert Anderson",
+    "Gender": "Female",
+    "Address": "856 University Ave",
+    "Email": "staff9121@example.com",
+    "Phone": "\u002B17779888819",
+    "BirthYear": "1981-08-05T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "578eede0-0bc3-4466-9c34-6d3278baba12",
+        "Faculty": 8,
+        "Name": "Data Structures",
+        "CFU": 7,
+        "Date": "2021-12-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 17,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "2541b2bf-f0aa-4384-b59d-0ddfcd52e126",
+        "Faculty": 8,
+        "Name": "Molecular Biology",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2018-09-19T00:00:00",
+    "Salary": 91183.02,
+    "Id": "461ee9dd-5fc3-445d-a3ee-dd66422bab6e",
+    "FullName": "Sarah Anderson",
+    "Gender": "Male",
+    "Address": "720 University Ave",
+    "Email": "staff1632@example.com",
+    "Phone": "\u002B17713290807",
+    "BirthYear": "1979-12-20T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 8
+  },
+  {
+    "Exams": [
+      {
+        "Id": "e7e585cc-5f36-401f-8e8f-3e63142db475",
+        "Faculty": 4,
+        "Name": "Business Strategy",
+        "CFU": 6,
+        "Date": "2020-02-27T00:00:00",
+        "IsOnline": true,
+        "Participants": 54,
+        "ExamType": 2,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "cb889335-ef55-4a33-a7e6-908c295eb414",
+        "Faculty": 4,
+        "Name": "Advanced Mathematics",
+        "CFU": 7,
+        "Date": "2023-12-17T00:00:00",
+        "IsOnline": true,
+        "Participants": 80,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "94de534f-a8e9-4ce0-9e0f-34487d887f3e",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 7,
+        "Date": "2022-06-06T00:00:00",
+        "IsOnline": false,
+        "Participants": 38,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9fd9010c-c57a-4a42-a8dc-cda2440a1872",
+        "Faculty": 4,
+        "Name": "Discrete Mathematics",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 6
+      },
+      {
+        "Id": "df1d8341-bce0-4ba6-a38b-f5e6f6ace7aa",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "46e54df0-77d9-423e-86e5-39539aa78a6c",
+        "Faculty": 4,
+        "Name": "Linguistics Analysis",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2004-10-01T00:00:00",
+    "Salary": 80715.87,
+    "Id": "566364ca-3cd2-4a6e-b9bc-a658cd3d69ca",
+    "FullName": "Brian Lewis",
+    "Gender": "Female",
+    "Address": "247 University Ave",
+    "Email": "staff6940@example.com",
+    "Phone": "\u002B15800597462",
+    "BirthYear": "1972-01-06T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 3,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "9045b3a3-4615-4331-a1b0-4dab3994950f",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "Date": "2022-02-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 83,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "903eb727-eddd-488e-9963-7663a364d9b7",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2000-06-08T00:00:00",
+    "Salary": 66208.74,
+    "Id": "72b6d00e-6619-421d-ab4b-d3e3fe50587b",
+    "FullName": "David Smith",
+    "Gender": "Male",
+    "Address": "888 University Ave",
+    "Email": "staff8483@example.com",
+    "Phone": "\u002B15006231075",
+    "BirthYear": "1956-11-04T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 1
+  },
+  {
+    "Exams": [
+      {
+        "Id": "d7297da6-a85a-4fd5-b317-c12474eb735f",
+        "Faculty": 2,
+        "Name": "Advanced Mathematics",
+        "CFU": 12,
+        "Date": "2020-07-26T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "d7297da6-a85a-4fd5-b317-c12474eb735f",
+        "Faculty": 2,
+        "Name": "Advanced Mathematics",
+        "CFU": 12,
+        "Date": "2020-07-26T00:00:00",
+        "IsOnline": false,
+        "Participants": 46,
+        "ExamType": 2,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c4f58232-c440-4856-8744-fc03075ef2c1",
+        "Faculty": 2,
+        "Name": "Database Systems",
+        "CFU": 4,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "e6e30688-fc6b-4f5d-95e5-543c42e40830",
+        "Faculty": 2,
+        "Name": "Molecular Biology",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 1
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2009-04-09T00:00:00",
+    "Salary": 61722.48,
+    "Id": "edbad3c8-355d-47f6-9c6f-72b5c0263c83",
+    "FullName": "Sarah Johnson",
+    "Gender": "Male",
+    "Address": "698 University Ave",
+    "Email": "staff6663@example.com",
+    "Phone": "\u002B14709909440",
+    "BirthYear": "1956-09-24T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "565194a1-5dbe-41d7-af44-b9df19821da4",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 4,
+        "Date": "2023-01-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 45,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "bbe785cc-b3a3-46d5-968c-1477da77162c",
+        "Faculty": 4,
+        "Name": "Nursing Ethics",
+        "CFU": 3,
+        "Date": "2021-11-12T00:00:00",
+        "IsOnline": false,
+        "Participants": 70,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      },
+      {
+        "Id": "565194a1-5dbe-41d7-af44-b9df19821da4",
+        "Faculty": 4,
+        "Name": "Constitutional Law",
+        "CFU": 4,
+        "Date": "2023-01-18T00:00:00",
+        "IsOnline": false,
+        "Participants": 45,
+        "ExamType": 3,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "f253851b-3d9f-4e27-aeaa-c50ff99de331",
+        "Faculty": 4,
+        "Name": "Cognitive Psychology",
+        "CFU": 3,
+        "IsOnline": false,
+        "Classroom": 4
+      },
+      {
+        "Id": "d351da65-3ecb-4321-a655-23a7ba6053e8",
+        "Faculty": 4,
+        "Name": "Physiology",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 7
+      },
+      {
+        "Id": "df1d8341-bce0-4ba6-a38b-f5e6f6ace7aa",
+        "Faculty": 4,
+        "Name": "Accounting",
+        "CFU": 10,
+        "IsOnline": false,
+        "Classroom": 4
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2002-02-27T00:00:00",
+    "Salary": 60572.79,
+    "Id": "ffbbe9f9-1b32-4386-9bed-352ea7103041",
+    "FullName": "Linda Harris",
+    "Gender": "Male",
+    "Address": "582 University Ave",
+    "Email": "staff9046@example.com",
+    "Phone": "\u002B15824694787",
+    "BirthYear": "1952-08-12T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 4
+  },
+  {
+    "Exams": [
+      {
+        "Id": "029fbe54-9dac-4b3b-b626-c333c52b4a58",
+        "Faculty": 6,
+        "Name": "Nursing Ethics",
+        "CFU": 11,
+        "Date": "2022-12-24T00:00:00",
+        "IsOnline": false,
+        "Participants": 26,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      },
+      {
+        "Id": "5ca24f32-f53e-4fc9-aa8b-1ee9e18c2cae",
+        "Faculty": 6,
+        "Name": "Business Strategy",
+        "CFU": 3,
+        "Date": "2022-07-06T00:00:00",
+        "IsOnline": true,
+        "Participants": 57,
+        "ExamType": 1,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "c12ce499-f15a-466c-9bbf-83d43e192f5d",
+        "Faculty": 6,
+        "Name": "Strategic Management",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 9
+      },
+      {
+        "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+        "Faculty": 6,
+        "Name": "Molecular Biology",
+        "CFU": 9,
+        "IsOnline": false,
+        "Classroom": 6
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "1996-06-11T00:00:00",
+    "Salary": 78078.17,
+    "Id": "a1ce9f14-d485-4c93-9f0b-048a00ba0a99",
+    "FullName": "Emily Brown",
+    "Gender": "Female",
+    "Address": "352 University Ave",
+    "Email": "staff5034@example.com",
+    "Phone": "\u002B18588789973",
+    "BirthYear": "1969-04-22T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 6
+  },
+  {
+    "Exams": [
+      {
+        "Id": "f3df55cd-f383-445b-841e-9c61add8b71a",
+        "Faculty": 2,
+        "Name": "Translation Studies",
+        "CFU": 5,
+        "Date": "2021-05-03T00:00:00",
+        "IsOnline": false,
+        "Participants": 28,
+        "ExamType": 3,
+        "IsProjectRequired": true
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "9e00b40e-74a4-446b-8554-1d524a6654a9",
+        "Faculty": 2,
+        "Name": "Corporate Finance",
+        "CFU": 2,
+        "IsOnline": false,
+        "Classroom": 8
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2018-02-08T00:00:00",
+    "Salary": 80991.68,
+    "Id": "5fd383f6-b7fb-4542-8367-bb9c75be8ba1",
+    "FullName": "Robert Clark",
+    "Gender": "Male",
+    "Address": "979 University Ave",
+    "Email": "staff5043@example.com",
+    "Phone": "\u002B17994742317",
+    "BirthYear": "1968-10-04T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 1,
+    "Faculty": 2
+  },
+  {
+    "Exams": [
+      {
+        "Id": "9045b3a3-4615-4331-a1b0-4dab3994950f",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "Date": "2022-02-11T00:00:00",
+        "IsOnline": true,
+        "Participants": 83,
+        "ExamType": 1,
+        "IsProjectRequired": false
+      }
+    ],
+    "Courses": [
+      {
+        "Id": "903eb727-eddd-488e-9963-7663a364d9b7",
+        "Faculty": 1,
+        "Name": "Civil Law",
+        "CFU": 7,
+        "IsOnline": false,
+        "Classroom": 2
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2001-03-09T00:00:00",
+    "Salary": 69365.0,
+    "Id": "4518c03c-9883-4bec-87cc-92d2d0f4c67b",
+    "FullName": "Alice Johnson",
+    "Gender": "Female",
+    "Address": "687 University Ave",
+    "Email": "staff2069@example.com",
+    "Phone": "\u002B18983240522",
+    "BirthYear": "1964-11-05T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 2,
+    "Faculty": 1
+  },
+  {
+    "Exams": [],
+    "Courses": [
+      {
+        "Id": "974f359b-b8c6-49ed-8a0a-91063b0ce61f",
+        "Faculty": 5,
+        "Name": "Corporate Finance",
+        "CFU": 5,
+        "IsOnline": false,
+        "Classroom": 9
+      }
+    ],
+    "Role": 5,
+    "HiringYear": "2008-08-07T00:00:00",
+    "Salary": 60298.62,
+    "Id": "ecc6c22a-8072-454e-a1f7-15fab9d42442",
+    "FullName": "Alice Anderson",
+    "Gender": "Female",
+    "Address": "690 University Ave",
+    "Email": "staff1222@example.com",
+    "Phone": "\u002B12078886548",
+    "BirthYear": "1987-12-17T00:00:00",
+    "IsFullTime": true,
+    "MaritalStatus": 4,
+    "Faculty": 5
+  }
+]

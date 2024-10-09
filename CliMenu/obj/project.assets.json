@@ -261,6 +261,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "DotnetAcademyLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DotnetAcademyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DotnetAcademyLib.dll": {}
+        }
       }
     }
   },
@@ -708,10 +718,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DotnetAcademyLib/1.0.0": {
+      "type": "project",
+      "path": "../DotnetAcademyLib/DotnetAcademyLib.csproj",
+      "msbuildProject": "../DotnetAcademyLib/DotnetAcademyLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DotnetAcademyLib >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 8.0.0",
       "Microsoft.Extensions.Configuration.Json >= 8.0.0",
       "System.Configuration.ConfigurationManager >= 9.0.0-rc.1.24431.7"
@@ -749,7 +765,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\franc\\Desktop\\dotnet-academy\\DotnetAcademyLib\\DotnetAcademyLib.csproj": {
+              "projectPath": "C:\\Users\\franc\\Desktop\\dotnet-academy\\DotnetAcademyLib\\DotnetAcademyLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

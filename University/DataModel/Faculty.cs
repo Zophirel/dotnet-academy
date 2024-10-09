@@ -5,6 +5,7 @@ namespace University.DataModel
 
     public class UniModel
     {
+        public Guid Id { get; set; } = Guid.NewGuid();
         public string Name { get; set; }
         public string Address { get; set; }
         public List<Faculty> Faculties { get; set; }
@@ -19,8 +20,8 @@ namespace University.DataModel
 
     public class Faculty
     {
+        public Guid Id { get; set; } = Guid.NewGuid();
         public Faculties Name { get; set; }
-        //lista ogetto esami
         public string Address { get; set; }
         public int StudentsNumber { get; set; }
         public int LabsNumber { get; set; }
@@ -33,7 +34,8 @@ namespace University.DataModel
 
     public class Exam
     {
-        public Faculty? Faculty { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid();
+        public Faculties Faculty { get; set; }
         public string Name { get; set; }
         public int CFU { get; set; }
         public DateTime Date { get; set; }
@@ -45,7 +47,8 @@ namespace University.DataModel
 
     public class Courses
     {
-        public Faculty? Faculty { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid();
+        public Faculties Faculty { get; set; }
         public string Name { get; set; }
         public int CFU { get; set; }
         public bool IsOnline { get; set; }

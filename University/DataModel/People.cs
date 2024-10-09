@@ -20,6 +20,7 @@ namespace University.DataModel
         public bool IsFullTime { get; set; }
 
         public Status MaritalStatus { get; set; }
+        public Faculties Faculty { get; set; } //where the student is enrolled
     }
 
     public class Student : People
@@ -28,14 +29,13 @@ namespace University.DataModel
         public DateTime RegistrationYear { get; set; }
         public Degrees Degree { get; set; }
         public decimal ISEE { get; set; }
-        public Faculty? Faculty { get; set; } //where the student is enrolled
+       
     }
 
     public class Employee : People
     {
         public Roles Role { get; set; }
         public DateTime HiringYear { get; set; }
-        public Faculty? Faculty { get; set; } //where the employee works
         public decimal Salary { get; set; }
     }
 

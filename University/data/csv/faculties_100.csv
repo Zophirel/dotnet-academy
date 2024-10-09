@@ -1,0 +1,10 @@
+Id,Name,Address,StudentsNumber,LabsNumber,HasLibrary,HasCanteen
+8b4aaa7f-506f-4c9f-ac76-3a6d903d2675,BUSINESS_AND_MANAGEMENT,668 Faculty St,949,2,True,False
+0b7c90b4-f1a3-4d64-9dbf-99c314d1f123,COMPUTER_SCIENCE,123 Tech Park,1200,8,True,True
+3c4e2d7b-1f4e-49d7-98d7-a3548e194fcb,MATHEMATICS,456 Numbers Ln,700,1,True,False
+6a5d9e23-d1e4-497b-92d8-33808a7564a3,PSYCHOLOGY,789 Mind Rd,850,3,True,True
+1e8df7e6-3a99-47f7-ae5c-912f78a6d912,LAW,101 Legal Blvd,1100,4,True,False
+9a0f5a6c-4c1d-499f-a47b-c2934e2d6b22,FASHION_DESIGN,222 Style Ave,500,2,False,True
+2e3ba4f8-abc1-4df9-9c91-2a4f6f6e7b68,NURSING,333 Health St,900,5,True,True
+4b1e274d-2b0f-42fd-91d5-81a2a3b3cc81,LANGUAGES,444 Linguistics Dr,600,1,False,False
+5f6b3c3d-4e89-4e9b-a647-9a1d9d6d4c77,BIOLOGY,555 Science Blvd,1000,6,True,True

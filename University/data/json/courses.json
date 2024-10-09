@@ -1,0 +1,802 @@
+[
+  {
+    "Id": "bf13c360-3ad8-4f9c-8a13-12343b24e195",
+    "Faculty": 3,
+    "Name": "Corporate Finance",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "bec31946-4b90-4e32-934c-7e3985b875e9",
+    "Faculty": 6,
+    "Name": "Artificial Intelligence",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "e6e30688-fc6b-4f5d-95e5-543c42e40830",
+    "Faculty": 2,
+    "Name": "Molecular Biology",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "cee11b17-09f1-45ee-b75a-c8721c37c52b",
+    "Faculty": 1,
+    "Name": "Microeconomics",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "458374c2-aca9-42ec-a865-6ce98e27a3de",
+    "Faculty": 5,
+    "Name": "Molecular Biology",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "c121128e-a308-4a48-a650-f617777111e7",
+    "Faculty": 1,
+    "Name": "Physiology",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "67d96214-6d75-4bb4-a538-200539f07612",
+    "Faculty": 7,
+    "Name": "Corporate Finance",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "c207b36a-abea-4bd2-9d59-24b445ffbd5e",
+    "Faculty": 1,
+    "Name": "Physiology",
+    "CFU": 11,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "aed7c96f-b1aa-499f-9a3c-7d948483ceb7",
+    "Faculty": 4,
+    "Name": "Linguistics Analysis",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "1184eb60-8627-4e44-bb0d-e3ca6bcf94a5",
+    "Faculty": 4,
+    "Name": "Database Systems",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "69791a9d-5a29-4083-8e62-e49a5f48bc05",
+    "Faculty": 5,
+    "Name": "Operating Systems",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "5bef802b-a269-45bc-b7ed-936dea9edc2c",
+    "Faculty": 6,
+    "Name": "Molecular Biology",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "1d26a1cd-5399-4ada-9fcd-19d86eb71518",
+    "Faculty": 2,
+    "Name": "Genetics",
+    "CFU": 11,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "e0667dbc-cf68-4401-88d0-2f3a5ee0a1ac",
+    "Faculty": 2,
+    "Name": "Discrete Mathematics",
+    "CFU": 11,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "c12ce499-f15a-466c-9bbf-83d43e192f5d",
+    "Faculty": 6,
+    "Name": "Strategic Management",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "6dea6ed2-7b4a-4afc-97ed-c4de243ad006",
+    "Faculty": 5,
+    "Name": "Genetics",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "a0c2584d-7ede-4f1c-a27b-49284d33142e",
+    "Faculty": 4,
+    "Name": "Microeconomics",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "c1a72e4f-3250-4754-adcb-0a084d0ae949",
+    "Faculty": 7,
+    "Name": "Artificial Intelligence",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "402ee203-3404-409d-a3af-d97f153b758c",
+    "Faculty": 5,
+    "Name": "Artificial Intelligence",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "1e70ab3d-8c4e-49c7-8c78-c8e50968dfa8",
+    "Faculty": 3,
+    "Name": "Microeconomics",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "3d83d29c-737f-47a3-9e24-65dacb1cf734",
+    "Faculty": 2,
+    "Name": "Corporate Finance",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "2541b2bf-f0aa-4384-b59d-0ddfcd52e126",
+    "Faculty": 8,
+    "Name": "Molecular Biology",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "974f359b-b8c6-49ed-8a0a-91063b0ce61f",
+    "Faculty": 5,
+    "Name": "Corporate Finance",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "e6a449ea-1ec3-4dd3-804c-14098053658c",
+    "Faculty": 5,
+    "Name": "Physiology",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "c55cf94c-0077-4630-aec9-753acca543b6",
+    "Faculty": 1,
+    "Name": "Cognitive Psychology",
+    "CFU": 4,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "39b61d8f-1b3a-4212-bf99-62143b563864",
+    "Faculty": 4,
+    "Name": "Accounting",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "ec9d6359-85a1-4a93-bfec-e8d776ab9e2d",
+    "Faculty": 4,
+    "Name": "Business Statistics",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "2768b8e0-f906-457b-9410-8a3ef6181138",
+    "Faculty": 8,
+    "Name": "Civil Law",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "7350fe73-7f5a-4649-9468-58b3a5b8e95e",
+    "Faculty": 4,
+    "Name": "Accounting",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "d9a1e280-9164-4c58-9f89-7f588eeeb6d4",
+    "Faculty": 4,
+    "Name": "Nursing Ethics",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "4a52477d-8605-44dc-8151-801054ab7e99",
+    "Faculty": 5,
+    "Name": "Molecular Biology",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "3553a544-9114-4e73-983f-f944684a6ee2",
+    "Faculty": 9,
+    "Name": "Nursing Ethics",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "e9420a6b-4ace-4523-80c9-3a1da3ae16a3",
+    "Faculty": 9,
+    "Name": "Accounting",
+    "CFU": 4,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "c2b6ffff-04d1-4394-8222-7d16684fe9f3",
+    "Faculty": 9,
+    "Name": "Physiology",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "e50180d7-401e-40b6-884f-182fe805bd94",
+    "Faculty": 5,
+    "Name": "Fashion Illustration",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "61e91035-8f85-4fe2-ace7-4f380fd895b3",
+    "Faculty": 5,
+    "Name": "Accounting",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "a0b26a97-9bb2-4313-b4f4-b700e0b4eb3a",
+    "Faculty": 8,
+    "Name": "Fashion Illustration",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "0dcbd328-a40f-4a4d-a337-a6568a97c935",
+    "Faculty": 5,
+    "Name": "Artificial Intelligence",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "c6479445-b463-44d0-8027-7d9a195d0e44",
+    "Faculty": 1,
+    "Name": "Strategic Management",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "aa87f375-1ead-42db-ac97-d0b77a92cbde",
+    "Faculty": 7,
+    "Name": "Molecular Biology",
+    "CFU": 11,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "103dfebd-4bc2-46be-9b21-6fbae6bef90a",
+    "Faculty": 7,
+    "Name": "Introduction to Psychology",
+    "CFU": 11,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "084d43fc-18a0-4861-a3ac-2c8616eddaa6",
+    "Faculty": 4,
+    "Name": "Civil Law",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "e64bf68e-b19e-4cec-94c3-b0103f545d52",
+    "Faculty": 7,
+    "Name": "Database Systems",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "3ae36cbf-2bd6-4974-a0d4-c0923728b938",
+    "Faculty": 3,
+    "Name": "Microeconomics",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "b0c72a82-938d-4e65-be8b-31fcb1d5967f",
+    "Faculty": 1,
+    "Name": "Operating Systems",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "c4f58232-c440-4856-8744-fc03075ef2c1",
+    "Faculty": 2,
+    "Name": "Database Systems",
+    "CFU": 4,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "d6e0ce9d-93bd-4c94-a8e7-129c90d89e0e",
+    "Faculty": 7,
+    "Name": "Microeconomics",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "7d118641-8b8e-42bb-b5ad-f83f8d406e21",
+    "Faculty": 3,
+    "Name": "Civil Law",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "e263a82e-9132-4ded-b9e5-3a5718c85629",
+    "Faculty": 9,
+    "Name": "Artificial Intelligence",
+    "CFU": 4,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "c454b58d-5c09-438b-8fba-1843808dda4e",
+    "Faculty": 8,
+    "Name": "Nursing Ethics",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "fe7ce362-0030-40aa-98ce-ebfb74420807",
+    "Faculty": 7,
+    "Name": "Fashion Illustration",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "38a09706-d024-41a9-9f5c-c18a99e8df7d",
+    "Faculty": 6,
+    "Name": "Nursing Ethics",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "903eb727-eddd-488e-9963-7663a364d9b7",
+    "Faculty": 1,
+    "Name": "Civil Law",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "7b0cf735-e205-43f0-bab1-7397f590aa46",
+    "Faculty": 8,
+    "Name": "Molecular Biology",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "c4daa8b0-c8ef-426c-8ca2-e6e3a9770eea",
+    "Faculty": 9,
+    "Name": "Civil Law",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "c5157b69-3e71-4034-a2ec-4483fcf67f94",
+    "Faculty": 5,
+    "Name": "Corporate Finance",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "688d3f9f-2a5d-4200-9c1d-1a788d2f63b5",
+    "Faculty": 8,
+    "Name": "Nursing Ethics",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "7bcec0ef-896f-4461-89fc-3296c33bcb5a",
+    "Faculty": 9,
+    "Name": "Introduction to Psychology",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "e62451ce-56e2-4750-9323-9f57567a89d7",
+    "Faculty": 8,
+    "Name": "Linguistics Analysis",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "9b4a7182-7a26-46b2-bd5f-25257fd35d03",
+    "Faculty": 4,
+    "Name": "Discrete Mathematics",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "7789cf87-40de-47bd-999b-04ce397c3dc6",
+    "Faculty": 4,
+    "Name": "Business Statistics",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "7fde480f-9849-480a-894e-bfbab6282516",
+    "Faculty": 4,
+    "Name": "Biomedical Ethics",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "8cb09940-9885-4fa4-8779-1be69a2b2550",
+    "Faculty": 9,
+    "Name": "Cognitive Psychology",
+    "CFU": 4,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "5241bc9c-7c5b-4f9c-ab43-44ccabc68154",
+    "Faculty": 6,
+    "Name": "Business Statistics",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "c127b25d-f76a-48d8-9845-e16f70dba297",
+    "Faculty": 1,
+    "Name": "Civil Law",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "17c10d39-3e2f-4fc3-a517-d253ab5ac65d",
+    "Faculty": 3,
+    "Name": "Business Statistics",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "1003e280-83ce-4ce1-aa55-b8b47f27b6d3",
+    "Faculty": 4,
+    "Name": "Discrete Mathematics",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "3cabc05d-8a9a-4f17-bc42-6c89a3e2ab5a",
+    "Faculty": 3,
+    "Name": "Operating Systems",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "7eb20d54-0fab-4a5d-896f-7ebef352df28",
+    "Faculty": 8,
+    "Name": "Strategic Management",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "9e00b40e-74a4-446b-8554-1d524a6654a9",
+    "Faculty": 2,
+    "Name": "Corporate Finance",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "36ec7a95-bb95-4500-afdf-b1ad90edb237",
+    "Faculty": 5,
+    "Name": "Introduction to Psychology",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "74ba11a4-0842-443b-a366-ff38be228316",
+    "Faculty": 1,
+    "Name": "Physiology",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "362ab570-7417-480e-b404-2923b97ba577",
+    "Faculty": 9,
+    "Name": "Business Statistics",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "315a79e6-1721-4b7d-b149-b55b731b057a",
+    "Faculty": 1,
+    "Name": "Database Systems",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "adddad0f-91ce-4f1d-a9fa-68651eed3fe3",
+    "Faculty": 3,
+    "Name": "Artificial Intelligence",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "d351da65-3ecb-4321-a655-23a7ba6053e8",
+    "Faculty": 4,
+    "Name": "Physiology",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "2acfe8ed-15c7-46b6-8fa7-775164e8a1eb",
+    "Faculty": 1,
+    "Name": "Corporate Finance",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "7e20dd2c-1392-456e-bb12-767aaed1a074",
+    "Faculty": 5,
+    "Name": "Strategic Management",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "df1d8341-bce0-4ba6-a38b-f5e6f6ace7aa",
+    "Faculty": 4,
+    "Name": "Accounting",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "03e8b1aa-9c84-4aff-8564-1ee0fa4ae37c",
+    "Faculty": 6,
+    "Name": "Strategic Management",
+    "CFU": 8,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "132646b1-d2b2-4e7b-a3b8-79ef75d87816",
+    "Faculty": 7,
+    "Name": "Civil Law",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "3669ae1f-6ff9-4298-b6f7-c84197490b96",
+    "Faculty": 2,
+    "Name": "Developmental Psychology",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "3c74a19c-e0ad-4c86-9f34-511612e52b2e",
+    "Faculty": 2,
+    "Name": "Civil Law",
+    "CFU": 6,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "b4ba0598-c189-4b77-942c-5f10f31e8fd3",
+    "Faculty": 5,
+    "Name": "Database Systems",
+    "CFU": 12,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "fc80b919-fe62-41b2-a259-737013421a4c",
+    "Faculty": 8,
+    "Name": "Genetics",
+    "CFU": 2,
+    "IsOnline": false,
+    "Classroom": 2
+  },
+  {
+    "Id": "ab67995b-2ac4-475f-97b0-e198601f8eec",
+    "Faculty": 6,
+    "Name": "Developmental Psychology",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 5
+  },
+  {
+    "Id": "900f99d2-308f-492d-b417-e2f393266709",
+    "Faculty": 5,
+    "Name": "Nursing Ethics",
+    "CFU": 11,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "9fd9010c-c57a-4a42-a8dc-cda2440a1872",
+    "Faculty": 4,
+    "Name": "Discrete Mathematics",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "74d8924b-4717-4ad5-bac7-9fdea4647872",
+    "Faculty": 1,
+    "Name": "Nursing Ethics",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 9
+  },
+  {
+    "Id": "9a50ce50-c9dc-4a3b-a1a8-c599576adb60",
+    "Faculty": 6,
+    "Name": "Molecular Biology",
+    "CFU": 9,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "affa31a5-6d84-4ab5-a60a-68d50811ffc3",
+    "Faculty": 9,
+    "Name": "Developmental Psychology",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "b145035a-1ae5-4170-8d68-7a58e7c81db4",
+    "Faculty": 4,
+    "Name": "Accounting",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "03973549-edcc-4ce6-afc4-99aa44790736",
+    "Faculty": 5,
+    "Name": "Molecular Biology",
+    "CFU": 4,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "b7195b49-e280-42d1-9cf6-935990f39cb2",
+    "Faculty": 3,
+    "Name": "Linguistics Analysis",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 1
+  },
+  {
+    "Id": "46e54df0-77d9-423e-86e5-39539aa78a6c",
+    "Faculty": 4,
+    "Name": "Linguistics Analysis",
+    "CFU": 7,
+    "IsOnline": false,
+    "Classroom": 8
+  },
+  {
+    "Id": "7a3ac3fe-f7c4-4f66-af2d-f79fe879a400",
+    "Faculty": 3,
+    "Name": "Molecular Biology",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 7
+  },
+  {
+    "Id": "95b48ff8-55a7-4ff6-9fdf-3faffaf34a9d",
+    "Faculty": 7,
+    "Name": "Fashion Illustration",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 6
+  },
+  {
+    "Id": "bb855096-0c80-44e7-9c74-06199cf01cd8",
+    "Faculty": 5,
+    "Name": "Introduction to Psychology",
+    "CFU": 5,
+    "IsOnline": false,
+    "Classroom": 4
+  },
+  {
+    "Id": "0c43856f-99b1-4243-88a2-bd370598b5e3",
+    "Faculty": 7,
+    "Name": "Introduction to Psychology",
+    "CFU": 10,
+    "IsOnline": false,
+    "Classroom": 3
+  },
+  {
+    "Id": "f253851b-3d9f-4e27-aeaa-c50ff99de331",
+    "Faculty": 4,
+    "Name": "Cognitive Psychology",
+    "CFU": 3,
+    "IsOnline": false,
+    "Classroom": 4
+  }
+]
